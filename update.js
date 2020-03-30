@@ -65,7 +65,7 @@ function extract(file, states) {
     skip_empty_lines: true
   });
   states.forEach(state => {
-    data[state] = {}
+    data[state] = []
     table.forEach(row => {
       let currentState = row.state;
       if (state == currentState) {
@@ -74,10 +74,11 @@ function extract(file, states) {
           confirmed: row.cases,
           deaths: row.deaths,
         };
-        data[state][day.date] = day
+        data[state].push(day)
       }
     });
   });
+  console.log(data)
   let json = JSON.stringify(data, null, 2);
   fs.writeFileSync('docs/states.json', json);
 }
