@@ -1,0 +1,19 @@
+{
+  "name": "covid19-us-api",
+  "version": "1.0.0",
+  "description": "Creates JSON API based on NY Times csv data",
+  "main": "update.js",
+  "dependencies": {
+    "csv-parse": "^4.8.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/energee/covid19-us-api"
+  },
+  "author": "Ted Slesinski",
+  "license": "GPL-3.0-or-later"
+}
