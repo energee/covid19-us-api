@@ -79,5 +79,5 @@ function extract(file, states) {
     });
   });
   let json = JSON.stringify(data, null, 2);
-  fs.writeFileSync('api/states.json', json);
+  fs.writeFileSync('docs/states.json', json);
 }
