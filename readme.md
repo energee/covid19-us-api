@@ -1,4 +1,4 @@
-Transforms data from https://github.com/nytimes/covid-19-data into json. Available at https://energ.ee/covid19-us-api/api/states.json.
+Transforms data from https://github.com/nytimes/covid-19-data into json. Available at https://energ.ee/covid19-us-api/states.json.
 
 The json contains the number of Coronavirus confirmed cases and deaths for every state starting on January 21st:
 
@@ -19,7 +19,7 @@ The json contains the number of Coronavirus confirmed cases and deaths for every
 Example:
 
 ```
-fetch("https://energ.ee/covid19-us/api/states.json")
+fetch("https://energ.ee/covid19-us-api/states.json")
   .then(response => response.json())
   .then(data => {
     data["Pennsylvania"].forEach(({ date, confirmed, deaths }) =>
