@@ -1,3 +1,5 @@
+![](https://github.com/energee/covid19-us-api/workflows/.github/workflows/main.yml/badge.svg)
+
 Transforms data from https://github.com/nytimes/covid-19-data into json. Available at https://energ.ee/covid19-us-api/states.json.
 
 The json contains the number of Coronavirus confirmed cases and deaths for every state starting on January 21st, however there no entries for states on days that have 0 confirmed and dead:
@@ -16,7 +18,7 @@ The json contains the number of Coronavirus confirmed cases and deaths for every
   },
   ```
 
-Example:
+*Example:*
 
 ```
 fetch("https://energ.ee/covid19-us-api/states.json")

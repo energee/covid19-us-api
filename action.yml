@@ -1,0 +1,5 @@
+name: "Compile new JSON"
+
+runs:
+  using: "node12"
+  main: "js/action.js"

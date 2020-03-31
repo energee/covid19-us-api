@@ -1,0 +1,40 @@
+name: Compile JSON Endpoint
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "15 0,2,12 * * *"
+
+jobs:
+  extract_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          path: main
+      - name: Checkout data repo
+        uses: actions/checkout@v2
+        with:
+          repository: nytimes/covid-19-data
+          path: data
+      - name: Install Dependencies
+        run: |
+          cd main
+          npm install
+      - name: Compiling JSON from CSV
+        uses: ./main/
+        id: compiling
+      - name: Commit files
+        run: |
+          cd main
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Commiting endpoint update" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          directory: main
