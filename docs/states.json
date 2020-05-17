@@ -319,6 +319,11 @@
       "date": "2020-05-15",
       "confirmed": "11373",
       "deaths": "483"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "11674",
+      "deaths": "485"
     }
   ],
   "Alaska": [
@@ -645,6 +650,11 @@
     {
       "date": "2020-05-15",
       "confirmed": "388",
+      "deaths": "8"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "392",
       "deaths": "8"
     }
   ],
@@ -1203,6 +1213,11 @@
       "date": "2020-05-15",
       "confirmed": "13169",
       "deaths": "651"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "13631",
+      "deaths": "679"
     }
   ],
   "Arkansas": [
@@ -1534,6 +1549,11 @@
     {
       "date": "2020-05-15",
       "confirmed": "4463",
+      "deaths": "98"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "4578",
       "deaths": "98"
     }
   ],
@@ -2097,6 +2117,11 @@
       "date": "2020-05-15",
       "confirmed": "77015",
       "deaths": "3192"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "78933",
+      "deaths": "3254"
     }
   ],
   "Colorado": [
@@ -2459,6 +2484,11 @@
       "date": "2020-05-15",
       "confirmed": "21207",
       "deaths": "1150"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "21604",
+      "deaths": "1192"
     }
   ],
   "Connecticut": [
@@ -2806,6 +2836,11 @@
       "date": "2020-05-15",
       "confirmed": "36085",
       "deaths": "3285"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "36703",
+      "deaths": "3339"
     }
   ],
   "Delaware": [
@@ -3138,6 +3173,11 @@
       "date": "2020-05-15",
       "confirmed": "7373",
       "deaths": "271"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "7547",
+      "deaths": "286"
     }
   ],
   "District of Columbia": [
@@ -3490,6 +3530,11 @@
       "date": "2020-05-15",
       "confirmed": "6871",
       "deaths": "368"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "7042",
+      "deaths": "375"
     }
   ],
   "Florida": [
@@ -3872,6 +3917,11 @@
       "date": "2020-05-15",
       "confirmed": "44130",
       "deaths": "1916"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "44803",
+      "deaths": "1963"
     }
   ],
   "Georgia": [
@@ -4249,6 +4299,11 @@
       "date": "2020-05-15",
       "confirmed": "35242",
       "deaths": "1563"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "35655",
+      "deaths": "1573"
     }
   ],
   "Hawaii": [
@@ -4606,6 +4661,11 @@
       "date": "2020-05-15",
       "confirmed": "628",
       "deaths": "17"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "629",
+      "deaths": "17"
     }
   ],
   "Idaho": [
@@ -4927,6 +4987,11 @@
     {
       "date": "2020-05-15",
       "confirmed": "2389",
+      "deaths": "73"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "2419",
       "deaths": "73"
     }
   ],
@@ -5493,8 +5558,13 @@
     },
     {
       "date": "2020-05-15",
-      "confirmed": "90529",
+      "confirmed": "90528",
       "deaths": "4075"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "92669",
+      "deaths": "4149"
     }
   ],
   "Indiana": [
@@ -5852,6 +5922,11 @@
       "date": "2020-05-15",
       "confirmed": "27281",
       "deaths": "1691"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "27919",
+      "deaths": "1741"
     }
   ],
   "Iowa": [
@@ -6199,6 +6274,11 @@
       "date": "2020-05-15",
       "confirmed": "14049",
       "deaths": "336"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "14328",
+      "deaths": "346"
     }
   ],
   "Kansas": [
@@ -6551,6 +6631,11 @@
       "date": "2020-05-15",
       "confirmed": "8007",
       "deaths": "187"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "8060",
+      "deaths": "189"
     }
   ],
   "Kentucky": [
@@ -6908,6 +6993,11 @@
       "date": "2020-05-15",
       "confirmed": "7578",
       "deaths": "343"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "7773",
+      "deaths": "346"
     }
   ],
   "Louisiana": [
@@ -7250,6 +7340,11 @@
       "date": "2020-05-15",
       "confirmed": "33837",
       "deaths": "2382"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "34117",
+      "deaths": "2413"
     }
   ],
   "Maine": [
@@ -7577,6 +7672,11 @@
       "date": "2020-05-15",
       "confirmed": "1603",
       "deaths": "69"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "1648",
+      "deaths": "70"
     }
   ],
   "Maryland": [
@@ -7939,6 +8039,11 @@
       "date": "2020-05-15",
       "confirmed": "37105",
       "deaths": "1911"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "38083",
+      "deaths": "1957"
     }
   ],
   "Massachusetts": [
@@ -8466,6 +8571,11 @@
       "date": "2020-05-15",
       "confirmed": "83421",
       "deaths": "5592"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "84933",
+      "deaths": "5705"
     }
   ],
   "Michigan": [
@@ -8803,6 +8913,11 @@
       "date": "2020-05-15",
       "confirmed": "49982",
       "deaths": "4825"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "50416",
+      "deaths": "4880"
     }
   ],
   "Minnesota": [
@@ -9160,6 +9275,11 @@
       "date": "2020-05-15",
       "confirmed": "14249",
       "deaths": "692"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "14978",
+      "deaths": "709"
     }
   ],
   "Mississippi": [
@@ -9492,6 +9612,11 @@
       "date": "2020-05-15",
       "confirmed": "10801",
       "deaths": "493"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "11123",
+      "deaths": "510"
     }
   ],
   "Missouri": [
@@ -9844,6 +9969,11 @@
       "date": "2020-05-15",
       "confirmed": "10567",
       "deaths": "581"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "10794",
+      "deaths": "595"
     }
   ],
   "Montana": [
@@ -10165,6 +10295,11 @@
     {
       "date": "2020-05-15",
       "confirmed": "466",
+      "deaths": "16"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "468",
       "deaths": "16"
     }
   ],
@@ -10497,122 +10632,127 @@
     {
       "date": "2020-04-22",
       "confirmed": "1826",
-      "deaths": "43"
+      "deaths": "42"
     },
     {
       "date": "2020-04-23",
       "confirmed": "2190",
-      "deaths": "47"
+      "deaths": "46"
     },
     {
       "date": "2020-04-24",
       "confirmed": "2474",
-      "deaths": "51"
+      "deaths": "50"
     },
     {
       "date": "2020-04-25",
       "confirmed": "2898",
-      "deaths": "53"
+      "deaths": "52"
     },
     {
       "date": "2020-04-26",
       "confirmed": "3126",
-      "deaths": "55"
+      "deaths": "54"
     },
     {
       "date": "2020-04-27",
       "confirmed": "3487",
-      "deaths": "55"
+      "deaths": "54"
     },
     {
       "date": "2020-04-28",
       "confirmed": "3613",
-      "deaths": "57"
+      "deaths": "56"
     },
     {
       "date": "2020-04-29",
       "confirmed": "3876",
-      "deaths": "68"
+      "deaths": "67"
     },
     {
       "date": "2020-04-30",
       "confirmed": "4332",
-      "deaths": "71"
+      "deaths": "70"
     },
     {
       "date": "2020-05-01",
       "confirmed": "4838",
-      "deaths": "73"
+      "deaths": "72"
     },
     {
       "date": "2020-05-02",
       "confirmed": "5332",
-      "deaths": "76"
+      "deaths": "75"
     },
     {
       "date": "2020-05-03",
       "confirmed": "5686",
-      "deaths": "78"
+      "deaths": "77"
     },
     {
       "date": "2020-05-04",
       "confirmed": "6123",
-      "deaths": "79"
+      "deaths": "78"
     },
     {
       "date": "2020-05-05",
       "confirmed": "6442",
-      "deaths": "82"
+      "deaths": "81"
     },
     {
       "date": "2020-05-06",
       "confirmed": "6771",
-      "deaths": "86"
+      "deaths": "85"
     },
     {
       "date": "2020-05-07",
       "confirmed": "7190",
-      "deaths": "92"
+      "deaths": "91"
     },
     {
       "date": "2020-05-08",
-      "confirmed": "7831",
-      "deaths": "93"
+      "confirmed": "7830",
+      "deaths": "92"
     },
     {
       "date": "2020-05-09",
-      "confirmed": "8234",
-      "deaths": "96"
+      "confirmed": "8233",
+      "deaths": "95"
     },
     {
       "date": "2020-05-10",
-      "confirmed": "8329",
-      "deaths": "98"
+      "confirmed": "8328",
+      "deaths": "97"
     },
     {
       "date": "2020-05-11",
-      "confirmed": "8576",
-      "deaths": "100"
+      "confirmed": "8575",
+      "deaths": "99"
     },
     {
       "date": "2020-05-12",
-      "confirmed": "8734",
-      "deaths": "103"
+      "confirmed": "8732",
+      "deaths": "102"
     },
     {
       "date": "2020-05-13",
-      "confirmed": "9075",
-      "deaths": "107"
+      "confirmed": "9072",
+      "deaths": "106"
     },
     {
       "date": "2020-05-14",
-      "confirmed": "9416",
-      "deaths": "118"
+      "confirmed": "9411",
+      "deaths": "117"
     },
     {
       "date": "2020-05-15",
-      "confirmed": "9772",
-      "deaths": "123"
+      "confirmed": "9766",
+      "deaths": "122"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "10220",
+      "deaths": "129"
     }
   ],
   "Nevada": [
@@ -10975,6 +11115,11 @@
       "date": "2020-05-15",
       "confirmed": "6744",
       "deaths": "345"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "6819",
+      "deaths": "349"
     }
   ],
   "New Hampshire": [
@@ -11352,6 +11497,11 @@
       "date": "2020-05-15",
       "confirmed": "3464",
       "deaths": "159"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "3556",
+      "deaths": "171"
     }
   ],
   "New Jersey": [
@@ -11719,6 +11869,11 @@
       "date": "2020-05-15",
       "confirmed": "143905",
       "deaths": "10138"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "145089",
+      "deaths": "10249"
     }
   ],
   "New Mexico": [
@@ -12051,6 +12206,11 @@
       "date": "2020-05-15",
       "confirmed": "5662",
       "deaths": "253"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "5847",
+      "deaths": "259"
     }
   ],
   "New York": [
@@ -12433,6 +12593,11 @@
       "date": "2020-05-15",
       "confirmed": "350951",
       "deaths": "27755"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "353136",
+      "deaths": "27953"
     }
   ],
   "North Carolina": [
@@ -12805,6 +12970,11 @@
       "date": "2020-05-15",
       "confirmed": "17190",
       "deaths": "660"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "18009",
+      "deaths": "671"
     }
   ],
   "North Dakota": [
@@ -13136,6 +13306,11 @@
     {
       "date": "2020-05-15",
       "confirmed": "1761",
+      "deaths": "42"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "1848",
       "deaths": "42"
     }
   ],
@@ -13479,6 +13654,11 @@
       "date": "2020-05-15",
       "confirmed": "26956",
       "deaths": "1581"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "27476",
+      "deaths": "1610"
     }
   ],
   "Oklahoma": [
@@ -13836,6 +14016,11 @@
       "date": "2020-05-15",
       "confirmed": "5086",
       "deaths": "285"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "5237",
+      "deaths": "288"
     }
   ],
   "Oregon": [
@@ -14228,6 +14413,11 @@
       "date": "2020-05-15",
       "confirmed": "3541",
       "deaths": "137"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "3612",
+      "deaths": "137"
     }
   ],
   "Pennsylvania": [
@@ -14585,6 +14775,11 @@
       "date": "2020-05-15",
       "confirmed": "64178",
       "deaths": "4432"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "65228",
+      "deaths": "4490"
     }
   ],
   "Rhode Island": [
@@ -14967,6 +15162,11 @@
       "date": "2020-05-15",
       "confirmed": "12219",
       "deaths": "479"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "12434",
+      "deaths": "489"
     }
   ],
   "South Carolina": [
@@ -15324,6 +15524,11 @@
       "date": "2020-05-15",
       "confirmed": "8407",
       "deaths": "380"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "8661",
+      "deaths": "380"
     }
   ],
   "South Dakota": [
@@ -15660,6 +15865,11 @@
     {
       "date": "2020-05-15",
       "confirmed": "3887",
+      "deaths": "44"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "3959",
       "deaths": "44"
     }
   ],
@@ -16023,6 +16233,11 @@
       "date": "2020-05-15",
       "confirmed": "16917",
       "deaths": "288"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "17204",
+      "deaths": "292"
     }
   ],
   "Texas": [
@@ -16495,6 +16710,11 @@
       "date": "2020-05-15",
       "confirmed": "46987",
       "deaths": "1300"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "47866",
+      "deaths": "1330"
     }
   ],
   "Utah": [
@@ -16902,6 +17122,11 @@
       "date": "2020-05-15",
       "confirmed": "6930",
       "deaths": "77"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "7068",
+      "deaths": "78"
     }
   ],
   "Vermont": [
@@ -17253,6 +17478,11 @@
     {
       "date": "2020-05-15",
       "confirmed": "933",
+      "deaths": "53"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "934",
       "deaths": "53"
     }
   ],
@@ -17606,6 +17836,11 @@
       "date": "2020-05-15",
       "confirmed": "28672",
       "deaths": "977"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "29683",
+      "deaths": "1002"
     }
   ],
   "Washington": [
@@ -18188,6 +18423,11 @@
       "date": "2020-05-15",
       "confirmed": "19230",
       "deaths": "1008"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "19426",
+      "deaths": "1015"
     }
   ],
   "West Virginia": [
@@ -18490,6 +18730,11 @@
       "date": "2020-05-15",
       "confirmed": "1447",
       "deaths": "64"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "1470",
+      "deaths": "65"
     }
   ],
   "Wisconsin": [
@@ -18997,6 +19242,11 @@
       "date": "2020-05-15",
       "confirmed": "11854",
       "deaths": "445"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "12368",
+      "deaths": "453"
     }
   ],
   "Wyoming": [
@@ -19328,6 +19578,11 @@
     {
       "date": "2020-05-15",
       "confirmed": "716",
+      "deaths": "7"
+    },
+    {
+      "date": "2020-05-16",
+      "confirmed": "741",
       "deaths": "7"
     }
   ]
