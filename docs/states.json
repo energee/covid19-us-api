@@ -3695,8 +3695,8 @@
     },
     {
       "date": "2020-07-18",
-      "confirmed": "380512",
-      "deaths": "7660"
+      "confirmed": "383194",
+      "deaths": "7697"
     }
   ],
   "Colorado": [
@@ -11317,8 +11317,8 @@
     },
     {
       "date": "2020-07-18",
-      "confirmed": "38041",
-      "deaths": "789"
+      "confirmed": "38314",
+      "deaths": "790"
     }
   ],
   "Kansas": [
@@ -11989,7 +11989,7 @@
     },
     {
       "date": "2020-07-18",
-      "confirmed": "22237",
+      "confirmed": "22238",
       "deaths": "312"
     }
   ],
@@ -12666,7 +12666,7 @@
     },
     {
       "date": "2020-07-18",
-      "confirmed": "22746",
+      "confirmed": "22750",
       "deaths": "688"
     }
   ],
@@ -30573,8 +30573,8 @@
     },
     {
       "date": "2020-07-18",
-      "confirmed": "329733",
-      "deaths": "3967"
+      "confirmed": "330059",
+      "deaths": "3972"
     }
   ],
   "Utah": [
@@ -33546,8 +33546,8 @@
     },
     {
       "date": "2020-07-18",
-      "confirmed": "47563",
-      "deaths": "1499"
+      "confirmed": "47889",
+      "deaths": "1509"
     }
   ],
   "West Virginia": [
