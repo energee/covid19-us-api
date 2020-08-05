@@ -4070,8 +4070,8 @@
     },
     {
       "date": "2020-07-29",
-      "confirmed": "487855",
-      "deaths": "8908"
+      "confirmed": "486039",
+      "deaths": "8884"
     },
     {
       "date": "2020-07-30",
@@ -11088,7 +11088,7 @@
     },
     {
       "date": "2020-08-02",
-      "confirmed": "183662",
+      "confirmed": "183714",
       "deaths": "7718"
     },
     {
@@ -13334,7 +13334,7 @@
     },
     {
       "date": "2020-07-31",
-      "confirmed": "28123",
+      "confirmed": "28121",
       "deaths": "358"
     },
     {
@@ -21781,12 +21781,12 @@
     },
     {
       "date": "2020-07-28",
-      "confirmed": "25239",
+      "confirmed": "25140",
       "deaths": "326"
     },
     {
       "date": "2020-07-29",
-      "confirmed": "25547",
+      "confirmed": "25448",
       "deaths": "331"
     },
     {
@@ -34063,38 +34063,38 @@
     },
     {
       "date": "2020-07-28",
-      "confirmed": "412744",
-      "deaths": "6515"
+      "confirmed": "412849",
+      "deaths": "6518"
     },
     {
       "date": "2020-07-29",
-      "confirmed": "421817",
-      "deaths": "6831"
+      "confirmed": "421891",
+      "deaths": "6834"
     },
     {
       "date": "2020-07-30",
-      "confirmed": "432029",
-      "deaths": "6984"
+      "confirmed": "432134",
+      "deaths": "6987"
     },
     {
       "date": "2020-07-31",
-      "confirmed": "441688",
-      "deaths": "7265"
+      "confirmed": "441767",
+      "deaths": "7271"
     },
     {
       "date": "2020-08-01",
-      "confirmed": "448182",
-      "deaths": "7471"
+      "confirmed": "448224",
+      "deaths": "7477"
     },
     {
       "date": "2020-08-02",
-      "confirmed": "452826",
-      "deaths": "7515"
+      "confirmed": "452456",
+      "deaths": "7518"
     },
     {
       "date": "2020-08-03",
-      "confirmed": "461903",
-      "deaths": "7686"
+      "confirmed": "461962",
+      "deaths": "7692"
     }
   ],
   "Utah": [
@@ -34885,12 +34885,12 @@
     },
     {
       "date": "2020-07-31",
-      "confirmed": "40249",
+      "confirmed": "40258",
       "deaths": "308"
     },
     {
       "date": "2020-08-01",
-      "confirmed": "40751",
+      "confirmed": "40754",
       "deaths": "312"
     },
     {
