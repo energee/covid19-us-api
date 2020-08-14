@@ -4345,7 +4345,7 @@
     },
     {
       "date": "2020-08-13",
-      "confirmed": "603008",
+      "confirmed": "603212",
       "deaths": "10995"
     }
   ],
@@ -13397,8 +13397,8 @@
     },
     {
       "date": "2020-08-13",
-      "confirmed": "50373",
-      "deaths": "960"
+      "confirmed": "50678",
+      "deaths": "964"
     }
   ],
   "Kansas": [
@@ -39786,8 +39786,8 @@
     },
     {
       "date": "2020-08-13",
-      "confirmed": "67862",
-      "deaths": "1795"
+      "confirmed": "68096",
+      "deaths": "1823"
     }
   ],
   "West Virginia": [
