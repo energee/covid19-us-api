@@ -4520,8 +4520,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "653401",
-      "deaths": "11801"
+      "confirmed": "653527",
+      "deaths": "11802"
     }
   ],
   "Colorado": [
@@ -5367,8 +5367,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "54285",
-      "deaths": "1909"
+      "confirmed": "54310",
+      "deaths": "1911"
     }
   ],
   "Connecticut": [
@@ -7853,8 +7853,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "13409",
-      "deaths": "601"
+      "confirmed": "13469",
+      "deaths": "602"
     }
   ],
   "Florida": [
@@ -12283,7 +12283,7 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "215889",
+      "confirmed": "215903",
       "deaths": "8064"
     }
   ],
@@ -13957,8 +13957,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "54533",
-      "deaths": "1016"
+      "confirmed": "54653",
+      "deaths": "1017"
     }
   ],
   "Kansas": [
@@ -14794,7 +14794,7 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "36445",
+      "confirmed": "36588",
       "deaths": "423"
     }
   ],
@@ -15636,8 +15636,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "43700",
-      "deaths": "881"
+      "confirmed": "44025",
+      "deaths": "883"
     }
   ],
   "Louisiana": [
@@ -17275,8 +17275,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "4253",
-      "deaths": "128"
+      "confirmed": "4285",
+      "deaths": "129"
     }
   ],
   "Maryland": [
@@ -18122,8 +18122,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "102783",
-      "deaths": "3669"
+      "confirmed": "103315",
+      "deaths": "3674"
     }
   ],
   "Massachusetts": [
@@ -19956,7 +19956,7 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "104766",
+      "confirmed": "104771",
       "deaths": "6636"
     }
   ],
@@ -22452,7 +22452,7 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "72850",
+      "confirmed": "73070",
       "deaths": "1508"
     }
   ],
@@ -29293,8 +29293,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "150422",
-      "deaths": "2496"
+      "confirmed": "150450",
+      "deaths": "2497"
     }
   ],
   "North Dakota": [
@@ -36876,7 +36876,7 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "136260",
+      "confirmed": "136367",
       "deaths": "1470"
     }
   ],
@@ -37833,8 +37833,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "587900",
-      "deaths": "11248"
+      "confirmed": "588050",
+      "deaths": "11252"
     }
   ],
   "Utah": [
@@ -38725,7 +38725,7 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "48103",
+      "confirmed": "48104",
       "deaths": "384"
     }
   ],
@@ -40399,8 +40399,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "109882",
-      "deaths": "2427"
+      "confirmed": "110860",
+      "deaths": "2436"
     }
   ],
   "Washington": [
@@ -42253,8 +42253,8 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "8982",
-      "deaths": "166"
+      "confirmed": "9066",
+      "deaths": "170"
     }
   ],
   "Wisconsin": [
@@ -43245,7 +43245,7 @@
     },
     {
       "date": "2020-08-20",
-      "confirmed": "73067",
+      "confirmed": "73109",
       "deaths": "1077"
     }
   ],
