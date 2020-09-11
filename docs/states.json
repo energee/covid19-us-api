@@ -15637,8 +15637,8 @@
     },
     {
       "date": "2020-09-10",
-      "confirmed": "72458",
-      "deaths": "1207"
+      "confirmed": "72548",
+      "deaths": "1208"
     }
   ],
   "Kansas": [
@@ -17486,7 +17486,7 @@
     },
     {
       "date": "2020-09-02",
-      "confirmed": "52702",
+      "confirmed": "52704",
       "deaths": "1008"
     },
     {
@@ -18383,37 +18383,37 @@
     },
     {
       "date": "2020-08-26",
-      "confirmed": "145123",
+      "confirmed": "145661",
       "deaths": "4851"
     },
     {
       "date": "2020-08-27",
-      "confirmed": "145800",
+      "confirmed": "146338",
       "deaths": "4874"
     },
     {
       "date": "2020-08-28",
-      "confirmed": "146406",
+      "confirmed": "146944",
       "deaths": "4904"
     },
     {
       "date": "2020-08-29",
-      "confirmed": "146406",
+      "confirmed": "146944",
       "deaths": "4904"
     },
     {
       "date": "2020-08-30",
-      "confirmed": "148030",
+      "confirmed": "148568",
       "deaths": "4931"
     },
     {
       "date": "2020-08-31",
-      "confirmed": "148356",
+      "confirmed": "148894",
       "deaths": "4950"
     },
     {
       "date": "2020-09-01",
-      "confirmed": "149045",
+      "confirmed": "149583",
       "deaths": "4984"
     },
     {
