@@ -16899,7 +16899,7 @@
     },
     {
       "date": "2020-09-10",
-      "confirmed": "48439",
+      "confirmed": "48442",
       "deaths": "499"
     },
     {
@@ -43318,7 +43318,7 @@
     },
     {
       "date": "2020-09-11",
-      "confirmed": "683386",
+      "confirmed": "683295",
       "deaths": "14279"
     },
     {
@@ -47206,268 +47206,268 @@
     },
     {
       "date": "2020-07-24",
-      "confirmed": "53279",
-      "deaths": "1591"
+      "confirmed": "53278",
+      "deaths": "1590"
     },
     {
       "date": "2020-07-25",
-      "confirmed": "53884",
-      "deaths": "1592"
+      "confirmed": "53883",
+      "deaths": "1591"
     },
     {
       "date": "2020-07-26",
-      "confirmed": "54422",
-      "deaths": "1596"
+      "confirmed": "54421",
+      "deaths": "1595"
     },
     {
       "date": "2020-07-27",
-      "confirmed": "55548",
-      "deaths": "1611"
+      "confirmed": "55547",
+      "deaths": "1610"
     },
     {
       "date": "2020-07-28",
-      "confirmed": "56576",
-      "deaths": "1633"
+      "confirmed": "56575",
+      "deaths": "1632"
     },
     {
       "date": "2020-07-29",
-      "confirmed": "57300",
-      "deaths": "1643"
+      "confirmed": "57299",
+      "deaths": "1642"
     },
     {
       "date": "2020-07-30",
-      "confirmed": "58100",
-      "deaths": "1653"
+      "confirmed": "58099",
+      "deaths": "1652"
     },
     {
       "date": "2020-07-31",
-      "confirmed": "58726",
-      "deaths": "1654"
+      "confirmed": "58725",
+      "deaths": "1653"
     },
     {
       "date": "2020-08-01",
-      "confirmed": "59649",
-      "deaths": "1676"
+      "confirmed": "59648",
+      "deaths": "1675"
     },
     {
       "date": "2020-08-02",
-      "confirmed": "60161",
-      "deaths": "1680"
+      "confirmed": "60160",
+      "deaths": "1679"
     },
     {
       "date": "2020-08-03",
-      "confirmed": "61012",
-      "deaths": "1685"
+      "confirmed": "61011",
+      "deaths": "1684"
     },
     {
       "date": "2020-08-04",
-      "confirmed": "61829",
-      "deaths": "1706"
-    },
-    {
-      "date": "2020-08-05",
-      "confirmed": "62390",
+      "confirmed": "61828",
       "deaths": "1705"
     },
     {
+      "date": "2020-08-05",
+      "confirmed": "62389",
+      "deaths": "1704"
+    },
+    {
       "date": "2020-08-06",
-      "confirmed": "63057",
-      "deaths": "1716"
+      "confirmed": "63056",
+      "deaths": "1715"
     },
     {
       "date": "2020-08-07",
-      "confirmed": "63976",
-      "deaths": "1744"
+      "confirmed": "63975",
+      "deaths": "1743"
     },
     {
       "date": "2020-08-08",
-      "confirmed": "64347",
-      "deaths": "1752"
+      "confirmed": "64346",
+      "deaths": "1751"
     },
     {
       "date": "2020-08-09",
-      "confirmed": "65249",
-      "deaths": "1774"
+      "confirmed": "65248",
+      "deaths": "1773"
     },
     {
       "date": "2020-08-10",
-      "confirmed": "66226",
-      "deaths": "1781"
+      "confirmed": "66225",
+      "deaths": "1780"
     },
     {
       "date": "2020-08-11",
-      "confirmed": "66620",
-      "deaths": "1786"
+      "confirmed": "66619",
+      "deaths": "1785"
     },
     {
       "date": "2020-08-12",
-      "confirmed": "67171",
-      "deaths": "1789"
+      "confirmed": "67170",
+      "deaths": "1788"
     },
     {
       "date": "2020-08-13",
-      "confirmed": "68096",
-      "deaths": "1823"
+      "confirmed": "68095",
+      "deaths": "1822"
     },
     {
       "date": "2020-08-14",
-      "confirmed": "68582",
-      "deaths": "1826"
+      "confirmed": "68581",
+      "deaths": "1825"
     },
     {
       "date": "2020-08-15",
-      "confirmed": "69137",
-      "deaths": "1843"
+      "confirmed": "69136",
+      "deaths": "1842"
     },
     {
       "date": "2020-08-16",
-      "confirmed": "69895",
-      "deaths": "1862"
+      "confirmed": "69894",
+      "deaths": "1861"
     },
     {
       "date": "2020-08-17",
-      "confirmed": "70510",
-      "deaths": "1870"
+      "confirmed": "70509",
+      "deaths": "1869"
     },
     {
       "date": "2020-08-18",
-      "confirmed": "71033",
-      "deaths": "1896"
+      "confirmed": "71032",
+      "deaths": "1895"
     },
     {
       "date": "2020-08-19",
-      "confirmed": "71595",
-      "deaths": "1911"
+      "confirmed": "71594",
+      "deaths": "1910"
     },
     {
       "date": "2020-08-20",
-      "confirmed": "72285",
-      "deaths": "1925"
+      "confirmed": "72284",
+      "deaths": "1924"
     },
     {
       "date": "2020-08-21",
-      "confirmed": "72788",
-      "deaths": "1938"
+      "confirmed": "72787",
+      "deaths": "1937"
     },
     {
       "date": "2020-08-22",
-      "confirmed": "73354",
-      "deaths": "1945"
+      "confirmed": "73353",
+      "deaths": "1944"
     },
     {
       "date": "2020-08-23",
-      "confirmed": "73746",
-      "deaths": "1949"
+      "confirmed": "73745",
+      "deaths": "1948"
     },
     {
       "date": "2020-08-24",
-      "confirmed": "74293",
-      "deaths": "1954"
+      "confirmed": "74292",
+      "deaths": "1953"
     },
     {
       "date": "2020-08-25",
-      "confirmed": "74635",
-      "deaths": "1963"
+      "confirmed": "74634",
+      "deaths": "1962"
     },
     {
       "date": "2020-08-26",
-      "confirmed": "75208",
-      "deaths": "1969"
+      "confirmed": "75207",
+      "deaths": "1968"
     },
     {
       "date": "2020-08-27",
-      "confirmed": "75753",
-      "deaths": "1978"
+      "confirmed": "75752",
+      "deaths": "1977"
     },
     {
       "date": "2020-08-28",
-      "confirmed": "76398",
-      "deaths": "1993"
+      "confirmed": "76397",
+      "deaths": "1992"
     },
     {
       "date": "2020-08-29",
-      "confirmed": "76835",
-      "deaths": "1993"
+      "confirmed": "76834",
+      "deaths": "1992"
     },
     {
       "date": "2020-08-30",
-      "confirmed": "77123",
-      "deaths": "1993"
+      "confirmed": "77122",
+      "deaths": "1992"
     },
     {
       "date": "2020-08-31",
-      "confirmed": "77719",
-      "deaths": "2003"
+      "confirmed": "77718",
+      "deaths": "2002"
     },
     {
       "date": "2020-09-01",
-      "confirmed": "78062",
-      "deaths": "2019"
+      "confirmed": "78061",
+      "deaths": "2018"
     },
     {
       "date": "2020-09-02",
-      "confirmed": "78555",
-      "deaths": "2026"
+      "confirmed": "78554",
+      "deaths": "2025"
     },
     {
       "date": "2020-09-03",
-      "confirmed": "79121",
-      "deaths": "2034"
+      "confirmed": "79120",
+      "deaths": "2033"
     },
     {
       "date": "2020-09-04",
-      "confirmed": "79722",
-      "deaths": "2043"
+      "confirmed": "79721",
+      "deaths": "2042"
     },
     {
       "date": "2020-09-05",
-      "confirmed": "79901",
-      "deaths": "2043"
+      "confirmed": "79900",
+      "deaths": "2042"
     },
     {
       "date": "2020-09-06",
-      "confirmed": "80370",
-      "deaths": "2044"
+      "confirmed": "80369",
+      "deaths": "2043"
     },
     {
       "date": "2020-09-07",
-      "confirmed": "80486",
-      "deaths": "2044"
+      "confirmed": "80485",
+      "deaths": "2043"
     },
     {
       "date": "2020-09-08",
-      "confirmed": "81049",
-      "deaths": "2046"
+      "confirmed": "81048",
+      "deaths": "2045"
     },
     {
       "date": "2020-09-09",
-      "confirmed": "81529",
-      "deaths": "2067"
+      "confirmed": "81528",
+      "deaths": "2066"
     },
     {
       "date": "2020-09-10",
-      "confirmed": "82126",
-      "deaths": "2074"
+      "confirmed": "82125",
+      "deaths": "2073"
     },
     {
       "date": "2020-09-11",
-      "confirmed": "82591",
-      "deaths": "2080"
+      "confirmed": "82590",
+      "deaths": "2079"
     },
     {
       "date": "2020-09-12",
-      "confirmed": "82958",
-      "deaths": "2080"
+      "confirmed": "82957",
+      "deaths": "2079"
     },
     {
       "date": "2020-09-13",
-      "confirmed": "83178",
-      "deaths": "2080"
+      "confirmed": "83177",
+      "deaths": "2079"
     },
     {
       "date": "2020-09-14",
-      "confirmed": "83862",
-      "deaths": "2096"
+      "confirmed": "83861",
+      "deaths": "2095"
     }
   ],
   "West Virginia": [
