@@ -2199,6 +2199,11 @@
       "date": "2021-05-26",
       "confirmed": "542831",
       "deaths": "11138"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "543177",
+      "deaths": "11140"
     }
   ],
   "Alaska": [
@@ -4405,6 +4410,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "69542",
+      "deaths": "352"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "69583",
       "deaths": "352"
     }
   ],
@@ -6843,6 +6853,11 @@
       "date": "2021-05-26",
       "confirmed": "878338",
       "deaths": "17576"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "879102",
+      "deaths": "17594"
     }
   ],
   "Arkansas": [
@@ -9055,6 +9070,11 @@
       "date": "2021-05-26",
       "confirmed": "340698",
       "deaths": "5827"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "340916",
+      "deaths": "5829"
     }
   ],
   "California": [
@@ -11497,6 +11517,11 @@
       "date": "2021-05-26",
       "confirmed": "3781111",
       "deaths": "63013"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "3786405",
+      "deaths": "63162"
     }
   ],
   "Colorado": [
@@ -13739,6 +13764,11 @@
       "date": "2021-05-26",
       "confirmed": "543060",
       "deaths": "6675"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "543886",
+      "deaths": "6688"
     }
   ],
   "Connecticut": [
@@ -15966,6 +15996,11 @@
       "date": "2021-05-26",
       "confirmed": "346980",
       "deaths": "8227"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "347137",
+      "deaths": "8230"
     }
   ],
   "Delaware": [
@@ -18177,6 +18212,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "108532",
+      "deaths": "1660"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "108607",
       "deaths": "1660"
     }
   ],
@@ -20410,6 +20450,11 @@
       "date": "2021-05-26",
       "confirmed": "48822",
       "deaths": "1131"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "48844",
+      "deaths": "1132"
     }
   ],
   "Florida": [
@@ -22672,6 +22717,11 @@
       "date": "2021-05-26",
       "confirmed": "2316134",
       "deaths": "36646"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "2318472",
+      "deaths": "36732"
     }
   ],
   "Georgia": [
@@ -24929,6 +24979,11 @@
       "date": "2021-05-26",
       "confirmed": "1096882",
       "deaths": "20083"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "1097547",
+      "deaths": "20122"
     }
   ],
   "Hawaii": [
@@ -27166,6 +27221,11 @@
       "date": "2021-05-26",
       "confirmed": "34754",
       "deaths": "493"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "34807",
+      "deaths": "495"
     }
   ],
   "Idaho": [
@@ -29368,6 +29428,11 @@
       "date": "2021-05-26",
       "confirmed": "191810",
       "deaths": "2090"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "191949",
+      "deaths": "2092"
     }
   ],
   "Illinois": [
@@ -31815,6 +31880,11 @@
       "date": "2021-05-26",
       "confirmed": "1382318",
       "deaths": "25057"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "1383231",
+      "deaths": "25101"
     }
   ],
   "Indiana": [
@@ -34052,6 +34122,11 @@
       "date": "2021-05-26",
       "confirmed": "745032",
       "deaths": "13571"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "745688",
+      "deaths": "13583"
     }
   ],
   "Iowa": [
@@ -36279,6 +36354,11 @@
       "date": "2021-05-26",
       "confirmed": "371036",
       "deaths": "6044"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "371138",
+      "deaths": "6047"
     }
   ],
   "Kansas": [
@@ -38510,6 +38590,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "315642",
+      "deaths": "5099"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "315649",
       "deaths": "5099"
     }
   ],
@@ -40748,6 +40833,11 @@
       "date": "2021-05-26",
       "confirmed": "459068",
       "deaths": "6907"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "459425",
+      "deaths": "6908"
     }
   ],
   "Louisiana": [
@@ -42970,6 +43060,11 @@
       "date": "2021-05-26",
       "confirmed": "469864",
       "deaths": "10562"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "470331",
+      "deaths": "10570"
     }
   ],
   "Maine": [
@@ -45176,6 +45271,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "67294",
+      "deaths": "825"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "67416",
       "deaths": "825"
     }
   ],
@@ -47419,6 +47519,11 @@
       "date": "2021-05-26",
       "confirmed": "459069",
       "deaths": "9037"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "459308",
+      "deaths": "9581"
     }
   ],
   "Massachusetts": [
@@ -49826,6 +49931,11 @@
       "date": "2021-05-26",
       "confirmed": "706027",
       "deaths": "17841"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "706272",
+      "deaths": "17850"
     }
   ],
   "Michigan": [
@@ -51126,902 +51236,902 @@
     },
     {
       "date": "2020-11-24",
-      "confirmed": "347076",
+      "confirmed": "346926",
       "deaths": "9094"
     },
     {
       "date": "2020-11-25",
-      "confirmed": "352052",
+      "confirmed": "351831",
       "deaths": "9168"
     },
     {
       "date": "2020-11-26",
-      "confirmed": "352342",
+      "confirmed": "352121",
       "deaths": "9169"
     },
     {
       "date": "2020-11-27",
-      "confirmed": "369022",
+      "confirmed": "368890",
       "deaths": "9352"
     },
     {
       "date": "2020-11-28",
-      "confirmed": "377279",
+      "confirmed": "377209",
       "deaths": "9461"
     },
     {
       "date": "2020-11-29",
-      "confirmed": "377596",
+      "confirmed": "377526",
       "deaths": "9461"
     },
     {
       "date": "2020-11-30",
-      "confirmed": "388364",
+      "confirmed": "388102",
       "deaths": "9565"
     },
     {
       "date": "2020-12-01",
-      "confirmed": "394838",
+      "confirmed": "394554",
       "deaths": "9758"
     },
     {
       "date": "2020-12-02",
-      "confirmed": "402255",
+      "confirmed": "401953",
       "deaths": "9839"
     },
     {
       "date": "2020-12-03",
-      "confirmed": "410379",
+      "confirmed": "410052",
       "deaths": "10031"
     },
     {
       "date": "2020-12-04",
-      "confirmed": "419704",
+      "confirmed": "419370",
       "deaths": "10113"
     },
     {
       "date": "2020-12-05",
-      "confirmed": "425776",
+      "confirmed": "425496",
       "deaths": "10313"
     },
     {
       "date": "2020-12-06",
-      "confirmed": "426124",
+      "confirmed": "425844",
       "deaths": "10313"
     },
     {
       "date": "2020-12-07",
-      "confirmed": "435681",
+      "confirmed": "435461",
       "deaths": "10415"
     },
     {
       "date": "2020-12-08",
-      "confirmed": "442504",
+      "confirmed": "442126",
       "deaths": "10620"
     },
     {
       "date": "2020-12-09",
-      "confirmed": "447817",
+      "confirmed": "447434",
       "deaths": "10699"
     },
     {
       "date": "2020-12-10",
-      "confirmed": "454180",
+      "confirmed": "453792",
       "deaths": "10895"
     },
     {
       "date": "2020-12-11",
-      "confirmed": "459811",
+      "confirmed": "459398",
       "deaths": "10961"
     },
     {
       "date": "2020-12-12",
-      "confirmed": "464368",
+      "confirmed": "463961",
       "deaths": "11186"
     },
     {
       "date": "2020-12-13",
-      "confirmed": "464606",
+      "confirmed": "464199",
       "deaths": "11186"
     },
     {
       "date": "2020-12-14",
-      "confirmed": "472166",
+      "confirmed": "471738",
       "deaths": "11282"
     },
     {
       "date": "2020-12-15",
-      "confirmed": "477613",
+      "confirmed": "477174",
       "deaths": "11488"
     },
     {
       "date": "2020-12-16",
-      "confirmed": "482217",
+      "confirmed": "481772",
       "deaths": "11582"
     },
     {
       "date": "2020-12-17",
-      "confirmed": "486831",
+      "confirmed": "486375",
       "deaths": "11793"
     },
     {
       "date": "2020-12-18",
-      "confirmed": "491339",
+      "confirmed": "490881",
       "deaths": "11861"
     },
     {
       "date": "2020-12-19",
-      "confirmed": "495282",
+      "confirmed": "494847",
       "deaths": "12066"
     },
     {
       "date": "2020-12-20",
-      "confirmed": "495458",
+      "confirmed": "495023",
       "deaths": "12066"
     },
     {
       "date": "2020-12-21",
-      "confirmed": "500461",
+      "confirmed": "499988",
       "deaths": "12146"
     },
     {
       "date": "2020-12-22",
-      "confirmed": "503980",
+      "confirmed": "503497",
       "deaths": "12333"
     },
     {
       "date": "2020-12-23",
-      "confirmed": "507775",
+      "confirmed": "507291",
       "deaths": "12405"
     },
     {
       "date": "2020-12-24",
-      "confirmed": "508029",
+      "confirmed": "507545",
       "deaths": "12406"
     },
     {
       "date": "2020-12-25",
-      "confirmed": "508171",
+      "confirmed": "507687",
       "deaths": "12406"
     },
     {
       "date": "2020-12-26",
-      "confirmed": "515484",
+      "confirmed": "515022",
       "deaths": "12680"
     },
     {
       "date": "2020-12-27",
-      "confirmed": "515576",
+      "confirmed": "515114",
       "deaths": "12680"
     },
     {
       "date": "2020-12-28",
-      "confirmed": "519291",
+      "confirmed": "518788",
       "deaths": "12744"
     },
     {
       "date": "2020-12-29",
-      "confirmed": "523085",
+      "confirmed": "522563",
       "deaths": "12956"
     },
     {
       "date": "2020-12-30",
-      "confirmed": "526932",
+      "confirmed": "526401",
       "deaths": "13008"
     },
     {
       "date": "2020-12-31",
-      "confirmed": "527199",
+      "confirmed": "526668",
       "deaths": "13010"
     },
     {
       "date": "2021-01-01",
-      "confirmed": "527376",
+      "confirmed": "526845",
       "deaths": "13011"
     },
     {
       "date": "2021-01-02",
-      "confirmed": "535815",
+      "confirmed": "535355",
       "deaths": "13296"
     },
     {
       "date": "2021-01-03",
-      "confirmed": "536037",
+      "confirmed": "535582",
       "deaths": "13296"
     },
     {
       "date": "2021-01-04",
-      "confirmed": "541721",
+      "confirmed": "541158",
       "deaths": "13381"
     },
     {
       "date": "2021-01-05",
-      "confirmed": "544858",
+      "confirmed": "544276",
       "deaths": "13598"
     },
     {
       "date": "2021-01-06",
-      "confirmed": "549467",
+      "confirmed": "548875",
       "deaths": "13657"
     },
     {
       "date": "2021-01-07",
-      "confirmed": "553776",
+      "confirmed": "553222",
       "deaths": "13863"
     },
     {
       "date": "2021-01-08",
-      "confirmed": "557674",
+      "confirmed": "557079",
       "deaths": "13903"
     },
     {
       "date": "2021-01-09",
-      "confirmed": "560419",
+      "confirmed": "559830",
       "deaths": "14134"
     },
     {
       "date": "2021-01-10",
-      "confirmed": "560475",
+      "confirmed": "559886",
       "deaths": "14134"
     },
     {
       "date": "2021-01-11",
-      "confirmed": "565845",
+      "confirmed": "565231",
       "deaths": "14183"
     },
     {
       "date": "2021-01-12",
-      "confirmed": "568523",
+      "confirmed": "567901",
       "deaths": "14286"
     },
     {
       "date": "2021-01-13",
-      "confirmed": "571638",
+      "confirmed": "571014",
       "deaths": "14325"
     },
     {
       "date": "2021-01-14",
-      "confirmed": "575306",
+      "confirmed": "574675",
       "deaths": "14500"
     },
     {
       "date": "2021-01-15",
-      "confirmed": "578294",
+      "confirmed": "577657",
       "deaths": "14539"
     },
     {
       "date": "2021-01-16",
-      "confirmed": "580296",
+      "confirmed": "579669",
       "deaths": "14658"
     },
     {
       "date": "2021-01-17",
-      "confirmed": "580394",
+      "confirmed": "579767",
       "deaths": "14658"
     },
     {
       "date": "2021-01-18",
-      "confirmed": "583846",
+      "confirmed": "583202",
       "deaths": "14677"
     },
     {
       "date": "2021-01-19",
-      "confirmed": "586204",
+      "confirmed": "585548",
       "deaths": "14724"
     },
     {
       "date": "2021-01-20",
-      "confirmed": "588616",
+      "confirmed": "587963",
       "deaths": "14759"
     },
     {
       "date": "2021-01-21",
-      "confirmed": "591203",
+      "confirmed": "590546",
       "deaths": "14922"
     },
     {
       "date": "2021-01-22",
-      "confirmed": "593726",
+      "confirmed": "593068",
       "deaths": "14940"
     },
     {
       "date": "2021-01-23",
-      "confirmed": "595320",
+      "confirmed": "594666",
       "deaths": "15170"
     },
     {
       "date": "2021-01-24",
-      "confirmed": "595354",
+      "confirmed": "594700",
       "deaths": "15170"
     },
     {
       "date": "2021-01-25",
-      "confirmed": "598449",
+      "confirmed": "597781",
       "deaths": "15208"
     },
     {
       "date": "2021-01-26",
-      "confirmed": "600857",
+      "confirmed": "600175",
       "deaths": "15294"
     },
     {
       "date": "2021-01-27",
-      "confirmed": "602896",
+      "confirmed": "602207",
       "deaths": "15303"
     },
     {
       "date": "2021-01-28",
-      "confirmed": "605152",
+      "confirmed": "604458",
       "deaths": "15393"
     },
     {
       "date": "2021-01-29",
-      "confirmed": "607179",
+      "confirmed": "606480",
       "deaths": "15401"
     },
     {
       "date": "2021-01-30",
-      "confirmed": "608532",
+      "confirmed": "607833",
       "deaths": "15516"
     },
     {
       "date": "2021-01-31",
-      "confirmed": "608600",
+      "confirmed": "607901",
       "deaths": "15516"
     },
     {
       "date": "2021-02-01",
-      "confirmed": "611223",
+      "confirmed": "610524",
       "deaths": "15527"
     },
     {
       "date": "2021-02-02",
-      "confirmed": "612690",
+      "confirmed": "611976",
       "deaths": "15599"
     },
     {
       "date": "2021-02-03",
-      "confirmed": "614355",
+      "confirmed": "613637",
       "deaths": "15633"
     },
     {
       "date": "2021-02-04",
-      "confirmed": "617429",
+      "confirmed": "616705",
       "deaths": "15714"
     },
     {
       "date": "2021-02-05",
-      "confirmed": "619129",
+      "confirmed": "618398",
       "deaths": "15739"
     },
     {
       "date": "2021-02-06",
-      "confirmed": "620183",
+      "confirmed": "619463",
       "deaths": "15843"
     },
     {
       "date": "2021-02-07",
-      "confirmed": "620235",
+      "confirmed": "619515",
       "deaths": "15843"
     },
     {
       "date": "2021-02-08",
-      "confirmed": "622490",
+      "confirmed": "621737",
       "deaths": "15854"
     },
     {
       "date": "2021-02-09",
-      "confirmed": "623343",
+      "confirmed": "622586",
       "deaths": "15914"
     },
     {
       "date": "2021-02-10",
-      "confirmed": "624683",
+      "confirmed": "623920",
       "deaths": "15929"
     },
     {
       "date": "2021-02-11",
-      "confirmed": "626152",
+      "confirmed": "625389",
       "deaths": "16009"
     },
     {
       "date": "2021-02-12",
-      "confirmed": "627567",
+      "confirmed": "626793",
       "deaths": "16018"
     },
     {
       "date": "2021-02-13",
-      "confirmed": "628912",
+      "confirmed": "628145",
       "deaths": "16108"
     },
     {
       "date": "2021-02-14",
-      "confirmed": "628966",
+      "confirmed": "628199",
       "deaths": "16108"
     },
     {
       "date": "2021-02-15",
-      "confirmed": "630248",
+      "confirmed": "629490",
       "deaths": "16119"
     },
     {
       "date": "2021-02-16",
-      "confirmed": "631394",
+      "confirmed": "630605",
       "deaths": "16138"
     },
     {
       "date": "2021-02-17",
-      "confirmed": "632728",
+      "confirmed": "631932",
       "deaths": "16151"
     },
     {
       "date": "2021-02-18",
-      "confirmed": "633932",
+      "confirmed": "633131",
       "deaths": "16243"
     },
     {
       "date": "2021-02-19",
-      "confirmed": "635349",
+      "confirmed": "634539",
       "deaths": "16265"
     },
     {
       "date": "2021-02-20",
-      "confirmed": "636167",
+      "confirmed": "635359",
       "deaths": "16332"
     },
     {
       "date": "2021-02-21",
-      "confirmed": "636177",
+      "confirmed": "635369",
       "deaths": "16332"
     },
     {
       "date": "2021-02-22",
-      "confirmed": "637921",
+      "confirmed": "637100",
       "deaths": "16334"
     },
     {
       "date": "2021-02-23",
-      "confirmed": "639650",
+      "confirmed": "638824",
       "deaths": "16371"
     },
     {
       "date": "2021-02-24",
-      "confirmed": "641185",
+      "confirmed": "640353",
       "deaths": "16380"
     },
     {
       "date": "2021-02-25",
-      "confirmed": "642768",
+      "confirmed": "641925",
       "deaths": "16428"
     },
     {
       "date": "2021-02-26",
-      "confirmed": "644046",
+      "confirmed": "643197",
       "deaths": "16429"
     },
     {
       "date": "2021-02-27",
-      "confirmed": "645375",
+      "confirmed": "644528",
       "deaths": "16498"
     },
     {
       "date": "2021-02-28",
-      "confirmed": "645411",
+      "confirmed": "644564",
       "deaths": "16498"
     },
     {
       "date": "2021-03-01",
-      "confirmed": "647365",
+      "confirmed": "646502",
       "deaths": "16509"
     },
     {
       "date": "2021-03-02",
-      "confirmed": "648990",
+      "confirmed": "648119",
       "deaths": "16534"
     },
     {
       "date": "2021-03-03",
-      "confirmed": "650798",
+      "confirmed": "649908",
       "deaths": "16541"
     },
     {
       "date": "2021-03-04",
-      "confirmed": "652589",
+      "confirmed": "651685",
       "deaths": "16580"
     },
     {
       "date": "2021-03-05",
-      "confirmed": "654355",
+      "confirmed": "653447",
       "deaths": "16591"
     },
     {
       "date": "2021-03-06",
-      "confirmed": "655924",
+      "confirmed": "655016",
       "deaths": "16647"
     },
     {
       "date": "2021-03-07",
-      "confirmed": "655983",
+      "confirmed": "655075",
       "deaths": "16647"
     },
     {
       "date": "2021-03-08",
-      "confirmed": "658294",
+      "confirmed": "657365",
       "deaths": "16652"
     },
     {
       "date": "2021-03-09",
-      "confirmed": "659901",
+      "confirmed": "658967",
       "deaths": "16683"
     },
     {
       "date": "2021-03-10",
-      "confirmed": "662553",
+      "confirmed": "661607",
       "deaths": "16690"
     },
     {
       "date": "2021-03-11",
-      "confirmed": "665024",
+      "confirmed": "664079",
       "deaths": "16712"
     },
     {
       "date": "2021-03-12",
-      "confirmed": "667799",
+      "confirmed": "666844",
       "deaths": "16720"
     },
     {
       "date": "2021-03-13",
-      "confirmed": "669720",
+      "confirmed": "668771",
       "deaths": "16759"
     },
     {
       "date": "2021-03-14",
-      "confirmed": "669808",
+      "confirmed": "668859",
       "deaths": "16759"
     },
     {
       "date": "2021-03-15",
-      "confirmed": "673661",
+      "confirmed": "672687",
       "deaths": "16770"
     },
     {
       "date": "2021-03-16",
-      "confirmed": "676467",
+      "confirmed": "675483",
       "deaths": "16796"
     },
     {
       "date": "2021-03-17",
-      "confirmed": "680273",
+      "confirmed": "679274",
       "deaths": "16800"
     },
     {
       "date": "2021-03-18",
-      "confirmed": "683339",
+      "confirmed": "682322",
       "deaths": "16835"
     },
     {
       "date": "2021-03-19",
-      "confirmed": "687603",
+      "confirmed": "686584",
       "deaths": "16848"
     },
     {
       "date": "2021-03-20",
-      "confirmed": "690929",
+      "confirmed": "689933",
       "deaths": "16897"
     },
     {
       "date": "2021-03-21",
-      "confirmed": "691086",
+      "confirmed": "690090",
       "deaths": "16897"
     },
     {
       "date": "2021-03-22",
-      "confirmed": "696800",
+      "confirmed": "695763",
       "deaths": "16904"
     },
     {
       "date": "2021-03-23",
-      "confirmed": "701346",
+      "confirmed": "700292",
       "deaths": "16923"
     },
     {
       "date": "2021-03-24",
-      "confirmed": "706303",
+      "confirmed": "705335",
       "deaths": "16940"
     },
     {
       "date": "2021-03-25",
-      "confirmed": "712194",
+      "confirmed": "711126",
       "deaths": "16994"
     },
     {
       "date": "2021-03-26",
-      "confirmed": "718182",
+      "confirmed": "717104",
       "deaths": "17015"
     },
     {
       "date": "2021-03-27",
-      "confirmed": "723208",
+      "confirmed": "722160",
       "deaths": "17038"
     },
     {
       "date": "2021-03-28",
-      "confirmed": "723324",
+      "confirmed": "722276",
       "deaths": "17038"
     },
     {
       "date": "2021-03-29",
-      "confirmed": "732621",
+      "confirmed": "731519",
       "deaths": "17048"
     },
     {
       "date": "2021-03-30",
-      "confirmed": "738878",
+      "confirmed": "737764",
       "deaths": "17100"
     },
     {
       "date": "2021-03-31",
-      "confirmed": "745944",
+      "confirmed": "744823",
       "deaths": "17112"
     },
     {
       "date": "2021-04-01",
-      "confirmed": "753124",
+      "confirmed": "751999",
       "deaths": "17165"
     },
     {
       "date": "2021-04-02",
-      "confirmed": "759190",
+      "confirmed": "758101",
       "deaths": "17185"
     },
     {
       "date": "2021-04-03",
-      "confirmed": "768303",
+      "confirmed": "767273",
       "deaths": "17249"
     },
     {
       "date": "2021-04-04",
-      "confirmed": "768341",
+      "confirmed": "767311",
       "deaths": "17249"
     },
     {
       "date": "2021-04-05",
-      "confirmed": "779658",
+      "confirmed": "778517",
       "deaths": "17274"
     },
     {
       "date": "2021-04-06",
-      "confirmed": "785699",
+      "confirmed": "784542",
       "deaths": "17332"
     },
     {
       "date": "2021-04-07",
-      "confirmed": "795038",
+      "confirmed": "793898",
       "deaths": "17362"
     },
     {
       "date": "2021-04-08",
-      "confirmed": "803765",
+      "confirmed": "802580",
       "deaths": "17440"
     },
     {
       "date": "2021-04-09",
-      "confirmed": "812489",
+      "confirmed": "811304",
       "deaths": "17471"
     },
     {
       "date": "2021-04-10",
-      "confirmed": "819775",
+      "confirmed": "818667",
       "deaths": "17552"
     },
     {
       "date": "2021-04-11",
-      "confirmed": "819977",
+      "confirmed": "818836",
       "deaths": "17552"
     },
     {
       "date": "2021-04-12",
-      "confirmed": "830646",
+      "confirmed": "829424",
       "deaths": "17566"
     },
     {
       "date": "2021-04-13",
-      "confirmed": "840729",
+      "confirmed": "839486",
       "deaths": "17648"
     },
     {
       "date": "2021-04-14",
-      "confirmed": "850082",
+      "confirmed": "848824",
       "deaths": "17683"
     },
     {
       "date": "2021-04-15",
-      "confirmed": "857360",
+      "confirmed": "856086",
       "deaths": "17806"
     },
     {
       "date": "2021-04-16",
-      "confirmed": "867166",
+      "confirmed": "865876",
       "deaths": "17848"
     },
     {
       "date": "2021-04-17",
-      "confirmed": "873016",
+      "confirmed": "871907",
       "deaths": "17922"
     },
     {
       "date": "2021-04-18",
-      "confirmed": "873185",
+      "confirmed": "871912",
       "deaths": "17922"
     },
     {
       "date": "2021-04-19",
-      "confirmed": "882436",
+      "confirmed": "881121",
       "deaths": "17987"
     },
     {
       "date": "2021-04-20",
-      "confirmed": "888915",
+      "confirmed": "887642",
       "deaths": "18075"
     },
     {
       "date": "2021-04-21",
-      "confirmed": "894919",
+      "confirmed": "893610",
       "deaths": "18119"
     },
     {
       "date": "2021-04-22",
-      "confirmed": "900423",
+      "confirmed": "899108",
       "deaths": "18239"
     },
     {
       "date": "2021-04-23",
-      "confirmed": "906038",
+      "confirmed": "904751",
       "deaths": "18272"
     },
     {
       "date": "2021-04-24",
-      "confirmed": "911090",
+      "confirmed": "909952",
       "deaths": "18398"
     },
     {
       "date": "2021-04-25",
-      "confirmed": "911145",
+      "confirmed": "909952",
       "deaths": "18398"
     },
     {
       "date": "2021-04-26",
-      "confirmed": "918370",
+      "confirmed": "917016",
       "deaths": "18439"
     },
     {
       "date": "2021-04-27",
-      "confirmed": "922873",
+      "confirmed": "921596",
       "deaths": "18552"
     },
     {
       "date": "2021-04-28",
-      "confirmed": "927753",
+      "confirmed": "926532",
       "deaths": "18589"
     },
     {
       "date": "2021-04-29",
-      "confirmed": "931977",
+      "confirmed": "930717",
       "deaths": "18705"
     },
     {
       "date": "2021-04-30",
-      "confirmed": "935781",
+      "confirmed": "934576",
       "deaths": "18743"
     },
     {
       "date": "2021-05-01",
-      "confirmed": "939334",
+      "confirmed": "938277",
       "deaths": "18883"
     },
     {
       "date": "2021-05-02",
-      "confirmed": "939387",
+      "confirmed": "938277",
       "deaths": "18883"
     },
     {
       "date": "2021-05-03",
-      "confirmed": "944908",
+      "confirmed": "943827",
       "deaths": "18910"
     },
     {
       "date": "2021-05-04",
-      "confirmed": "948029",
+      "confirmed": "946952",
       "deaths": "19041"
     },
     {
       "date": "2021-05-05",
-      "confirmed": "951175",
+      "confirmed": "950023",
       "deaths": "19087"
     },
     {
       "date": "2021-05-06",
-      "confirmed": "955197",
+      "confirmed": "954135",
       "deaths": "19209"
     },
     {
       "date": "2021-05-07",
-      "confirmed": "958534",
+      "confirmed": "957497",
       "deaths": "19239"
     },
     {
       "date": "2021-05-08",
-      "confirmed": "961053",
+      "confirmed": "960068",
       "deaths": "19363"
     },
     {
       "date": "2021-05-09",
-      "confirmed": "961082",
+      "confirmed": "960068",
       "deaths": "19363"
     },
     {
       "date": "2021-05-10",
-      "confirmed": "964067",
+      "confirmed": "963056",
       "deaths": "19398"
     },
     {
       "date": "2021-05-11",
-      "confirmed": "966735",
+      "confirmed": "965724",
       "deaths": "19500"
     },
     {
       "date": "2021-05-12",
-      "confirmed": "969452",
+      "confirmed": "968480",
       "deaths": "19515"
     },
     {
       "date": "2021-05-13",
-      "confirmed": "971849",
+      "confirmed": "970847",
       "deaths": "19633"
     },
     {
       "date": "2021-05-14",
-      "confirmed": "973953",
+      "confirmed": "972945",
       "deaths": "19665"
     },
     {
       "date": "2021-05-15",
-      "confirmed": "975388",
+      "confirmed": "974436",
       "deaths": "19775"
     },
     {
       "date": "2021-05-16",
-      "confirmed": "975440",
+      "confirmed": "974436",
       "deaths": "19775"
     },
     {
       "date": "2021-05-17",
-      "confirmed": "977992",
+      "confirmed": "977002",
       "deaths": "19799"
     },
     {
       "date": "2021-05-18",
-      "confirmed": "979534",
+      "confirmed": "978537",
       "deaths": "19886"
     },
     {
       "date": "2021-05-19",
-      "confirmed": "981455",
+      "confirmed": "980490",
       "deaths": "19915"
     },
     {
       "date": "2021-05-20",
-      "confirmed": "983077",
+      "confirmed": "982065",
       "deaths": "19998"
     },
     {
       "date": "2021-05-21",
-      "confirmed": "984245",
+      "confirmed": "983262",
       "deaths": "20036"
     },
     {
       "date": "2021-05-22",
-      "confirmed": "985433",
+      "confirmed": "984470",
       "deaths": "20125"
     },
     {
@@ -52043,6 +52153,11 @@
       "date": "2021-05-26",
       "confirmed": "988008",
       "deaths": "20224"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "988892",
+      "deaths": "20287"
     }
   ],
   "Minnesota": [
@@ -54280,6 +54395,11 @@
       "date": "2021-05-26",
       "confirmed": "600002",
       "deaths": "7486"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "600501",
+      "deaths": "7496"
     }
   ],
   "Mississippi": [
@@ -56492,6 +56612,11 @@
       "date": "2021-05-26",
       "confirmed": "317065",
       "deaths": "7302"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "317276",
+      "deaths": "7304"
     }
   ],
   "Missouri": [
@@ -58724,6 +58849,11 @@
       "date": "2021-05-26",
       "confirmed": "613366",
       "deaths": "9652"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "614032",
+      "deaths": "9664"
     }
   ],
   "Montana": [
@@ -60926,6 +61056,11 @@
       "date": "2021-05-26",
       "confirmed": "111557",
       "deaths": "1607"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "111713",
+      "deaths": "1610"
     }
   ],
   "Nebraska": [
@@ -63253,6 +63388,11 @@
       "date": "2021-05-26",
       "confirmed": "223197",
       "deaths": "2376"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "223243",
+      "deaths": "2376"
     }
   ],
   "Nevada": [
@@ -65495,6 +65635,11 @@
       "date": "2021-05-26",
       "confirmed": "323249",
       "deaths": "5570"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "323481",
+      "deaths": "5578"
     }
   ],
   "New Hampshire": [
@@ -67752,6 +67897,11 @@
       "date": "2021-05-26",
       "confirmed": "98470",
       "deaths": "1346"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "98613",
+      "deaths": "1349"
     }
   ],
   "New Jersey": [
@@ -69999,6 +70149,11 @@
       "date": "2021-05-26",
       "confirmed": "1014974",
       "deaths": "26137"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "1015368",
+      "deaths": "26173"
     }
   ],
   "New Mexico": [
@@ -72211,6 +72366,11 @@
       "date": "2021-05-26",
       "confirmed": "202573",
       "deaths": "4256"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "202701",
+      "deaths": "4261"
     }
   ],
   "New York": [
@@ -74473,6 +74633,11 @@
       "date": "2021-05-26",
       "confirmed": "2096320",
       "deaths": "52664"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "2097465",
+      "deaths": "52685"
     }
   ],
   "North Carolina": [
@@ -76725,6 +76890,11 @@
       "date": "2021-05-26",
       "confirmed": "1000144",
       "deaths": "13054"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "1001048",
+      "deaths": "13075"
     }
   ],
   "North Dakota": [
@@ -78937,6 +79107,11 @@
       "date": "2021-05-26",
       "confirmed": "109810",
       "deaths": "1539"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "109851",
+      "deaths": "1541"
     }
   ],
   "Ohio": [
@@ -81158,6 +81333,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "1099580",
+      "deaths": "19753"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "1100312",
       "deaths": "19753"
     }
   ],
@@ -83395,6 +83575,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "452496",
+      "deaths": "7291"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "452633",
       "deaths": "7291"
     }
   ],
@@ -85668,6 +85853,11 @@
       "date": "2021-05-26",
       "confirmed": "199858",
       "deaths": "2667"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "200219",
+      "deaths": "2679"
     }
   ],
   "Pennsylvania": [
@@ -87905,6 +88095,11 @@
       "date": "2021-05-26",
       "confirmed": "1203130",
       "deaths": "27180"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "1204359",
+      "deaths": "27219"
     }
   ],
   "Rhode Island": [
@@ -90167,6 +90362,11 @@
       "date": "2021-05-26",
       "confirmed": "151580",
       "deaths": "2708"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "151691",
+      "deaths": "2708"
     }
   ],
   "South Carolina": [
@@ -92404,6 +92604,11 @@
       "date": "2021-05-26",
       "confirmed": "591862",
       "deaths": "9708"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "592243",
+      "deaths": "9711"
     }
   ],
   "South Dakota": [
@@ -94620,6 +94825,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "124071",
+      "deaths": "2004"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "124105",
       "deaths": "2004"
     }
   ],
@@ -96863,6 +97073,11 @@
       "date": "2021-05-26",
       "confirmed": "847348",
       "deaths": "12306"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "847710",
+      "deaths": "12328"
     }
   ],
   "Texas": [
@@ -98413,808 +98628,813 @@
     },
     {
       "date": "2020-12-17",
-      "confirmed": "1552549",
+      "confirmed": "1551856",
       "deaths": "25336"
     },
     {
       "date": "2020-12-18",
-      "confirmed": "1571925",
+      "confirmed": "1571215",
       "deaths": "25608"
     },
     {
       "date": "2020-12-19",
-      "confirmed": "1585338",
+      "confirmed": "1584628",
       "deaths": "25841"
     },
     {
       "date": "2020-12-20",
-      "confirmed": "1593201",
+      "confirmed": "1592491",
       "deaths": "25948"
     },
     {
       "date": "2020-12-21",
-      "confirmed": "1610141",
+      "confirmed": "1609402",
       "deaths": "26164"
     },
     {
       "date": "2020-12-22",
-      "confirmed": "1632297",
+      "confirmed": "1631549",
       "deaths": "26363"
     },
     {
       "date": "2020-12-23",
-      "confirmed": "1652994",
+      "confirmed": "1652243",
       "deaths": "26624"
     },
     {
       "date": "2020-12-24",
-      "confirmed": "1661007",
+      "confirmed": "1660254",
       "deaths": "26879"
     },
     {
       "date": "2020-12-25",
-      "confirmed": "1663094",
+      "confirmed": "1662341",
       "deaths": "27042"
     },
     {
       "date": "2020-12-26",
-      "confirmed": "1668843",
+      "confirmed": "1668090",
       "deaths": "27062"
     },
     {
       "date": "2020-12-27",
-      "confirmed": "1691515",
+      "confirmed": "1690762",
       "deaths": "27110"
     },
     {
       "date": "2020-12-28",
-      "confirmed": "1711986",
+      "confirmed": "1711232",
       "deaths": "27245"
     },
     {
       "date": "2020-12-29",
-      "confirmed": "1735809",
+      "confirmed": "1735035",
       "deaths": "27499"
     },
     {
       "date": "2020-12-30",
-      "confirmed": "1755293",
+      "confirmed": "1754466",
       "deaths": "27821"
     },
     {
       "date": "2020-12-31",
-      "confirmed": "1772163",
+      "confirmed": "1771325",
       "deaths": "28155"
     },
     {
       "date": "2021-01-01",
-      "confirmed": "1779961",
+      "confirmed": "1779123",
       "deaths": "28434"
     },
     {
       "date": "2021-01-02",
-      "confirmed": "1793858",
+      "confirmed": "1793020",
       "deaths": "28508"
     },
     {
       "date": "2021-01-03",
-      "confirmed": "1810065",
+      "confirmed": "1809227",
       "deaths": "28554"
     },
     {
       "date": "2021-01-04",
-      "confirmed": "1833180",
+      "confirmed": "1832342",
       "deaths": "28681"
     },
     {
       "date": "2021-01-05",
-      "confirmed": "1864187",
+      "confirmed": "1863348",
       "deaths": "28949"
     },
     {
       "date": "2021-01-06",
-      "confirmed": "1889528",
+      "confirmed": "1888686",
       "deaths": "29278"
     },
     {
       "date": "2021-01-07",
-      "confirmed": "1912159",
+      "confirmed": "1911318",
       "deaths": "29645"
     },
     {
       "date": "2021-01-08",
-      "confirmed": "1936086",
+      "confirmed": "1935245",
       "deaths": "30109"
     },
     {
       "date": "2021-01-09",
-      "confirmed": "1953816",
+      "confirmed": "1952975",
       "deaths": "30441"
     },
     {
       "date": "2021-01-10",
-      "confirmed": "1967859",
+      "confirmed": "1967018",
       "deaths": "30599"
     },
     {
       "date": "2021-01-11",
-      "confirmed": "1991625",
+      "confirmed": "1990783",
       "deaths": "30720"
     },
     {
       "date": "2021-01-12",
-      "confirmed": "2018685",
+      "confirmed": "2017822",
       "deaths": "31017"
     },
     {
       "date": "2021-01-13",
-      "confirmed": "2042009",
+      "confirmed": "2041138",
       "deaths": "31396"
     },
     {
       "date": "2021-01-14",
-      "confirmed": "2071932",
+      "confirmed": "2071058",
       "deaths": "31819"
     },
     {
       "date": "2021-01-15",
-      "confirmed": "2096526",
+      "confirmed": "2095644",
       "deaths": "32212"
     },
     {
       "date": "2021-01-16",
-      "confirmed": "2114858",
+      "confirmed": "2113976",
       "deaths": "32581"
     },
     {
       "date": "2021-01-17",
-      "confirmed": "2127334",
+      "confirmed": "2126452",
       "deaths": "32747"
     },
     {
       "date": "2021-01-18",
-      "confirmed": "2138574",
+      "confirmed": "2137692",
       "deaths": "32858"
     },
     {
       "date": "2021-01-19",
-      "confirmed": "2160456",
+      "confirmed": "2159563",
       "deaths": "33176"
     },
     {
       "date": "2021-01-20",
-      "confirmed": "2188485",
+      "confirmed": "2187590",
       "deaths": "33632"
     },
     {
       "date": "2021-01-21",
-      "confirmed": "2209995",
+      "confirmed": "2209082",
       "deaths": "34075"
     },
     {
       "date": "2021-01-22",
-      "confirmed": "2228301",
+      "confirmed": "2227376",
       "deaths": "34496"
     },
     {
       "date": "2021-01-23",
-      "confirmed": "2242145",
+      "confirmed": "2241220",
       "deaths": "34859"
     },
     {
       "date": "2021-01-24",
-      "confirmed": "2249959",
+      "confirmed": "2249034",
       "deaths": "35050"
     },
     {
       "date": "2021-01-25",
-      "confirmed": "2270391",
+      "confirmed": "2269464",
       "deaths": "35236"
     },
     {
       "date": "2021-01-26",
-      "confirmed": "2291007",
+      "confirmed": "2290079",
       "deaths": "35544"
     },
     {
       "date": "2021-01-27",
-      "confirmed": "2310785",
+      "confirmed": "2309854",
       "deaths": "36024"
     },
     {
       "date": "2021-01-28",
-      "confirmed": "2330107",
+      "confirmed": "2329178",
       "deaths": "36434"
     },
     {
       "date": "2021-01-29",
-      "confirmed": "2349047",
+      "confirmed": "2348117",
       "deaths": "36804"
     },
     {
       "date": "2021-01-30",
-      "confirmed": "2362817",
+      "confirmed": "2361887",
       "deaths": "37096"
     },
     {
       "date": "2021-01-31",
-      "confirmed": "2375218",
+      "confirmed": "2374288",
       "deaths": "37242"
     },
     {
       "date": "2021-02-01",
-      "confirmed": "2414468",
+      "confirmed": "2413520",
       "deaths": "37405"
     },
     {
       "date": "2021-02-02",
-      "confirmed": "2432691",
+      "confirmed": "2431744",
       "deaths": "37760"
     },
     {
       "date": "2021-02-03",
-      "confirmed": "2450705",
+      "confirmed": "2449756",
       "deaths": "38203"
     },
     {
       "date": "2021-02-04",
-      "confirmed": "2464307",
+      "confirmed": "2463354",
       "deaths": "38610"
     },
     {
       "date": "2021-02-05",
-      "confirmed": "2478744",
+      "confirmed": "2477747",
       "deaths": "39039"
     },
     {
       "date": "2021-02-06",
-      "confirmed": "2487260",
+      "confirmed": "2486263",
       "deaths": "39330"
     },
     {
       "date": "2021-02-07",
-      "confirmed": "2494795",
+      "confirmed": "2493798",
       "deaths": "39490"
     },
     {
       "date": "2021-02-08",
-      "confirmed": "2505725",
+      "confirmed": "2504729",
       "deaths": "39655"
     },
     {
       "date": "2021-02-09",
-      "confirmed": "2518970",
+      "confirmed": "2517973",
       "deaths": "39973"
     },
     {
       "date": "2021-02-10",
-      "confirmed": "2532070",
+      "confirmed": "2531070",
       "deaths": "40297"
     },
     {
       "date": "2021-02-11",
-      "confirmed": "2543997",
+      "confirmed": "2542996",
       "deaths": "40661"
     },
     {
       "date": "2021-02-12",
-      "confirmed": "2556292",
+      "confirmed": "2555287",
       "deaths": "41063"
     },
     {
       "date": "2021-02-13",
-      "confirmed": "2564337",
+      "confirmed": "2563332",
       "deaths": "41320"
     },
     {
       "date": "2021-02-14",
-      "confirmed": "2568858",
+      "confirmed": "2567853",
       "deaths": "41440"
     },
     {
       "date": "2021-02-15",
-      "confirmed": "2571789",
+      "confirmed": "2570784",
       "deaths": "41484"
     },
     {
       "date": "2021-02-16",
-      "confirmed": "2575430",
+      "confirmed": "2574421",
       "deaths": "41546"
     },
     {
       "date": "2021-02-17",
-      "confirmed": "2579959",
+      "confirmed": "2578942",
       "deaths": "41650"
     },
     {
       "date": "2021-02-18",
-      "confirmed": "2582346",
+      "confirmed": "2581314",
       "deaths": "41764"
     },
     {
       "date": "2021-02-19",
-      "confirmed": "2588291",
+      "confirmed": "2587226",
       "deaths": "42000"
     },
     {
       "date": "2021-02-20",
-      "confirmed": "2593823",
+      "confirmed": "2592758",
       "deaths": "42202"
     },
     {
       "date": "2021-02-21",
-      "confirmed": "2600230",
+      "confirmed": "2599165",
       "deaths": "42321"
     },
     {
       "date": "2021-02-22",
-      "confirmed": "2607576",
+      "confirmed": "2606506",
       "deaths": "42484"
     },
     {
       "date": "2021-02-23",
-      "confirmed": "2617850",
+      "confirmed": "2616777",
       "deaths": "42728"
     },
     {
       "date": "2021-02-24",
-      "confirmed": "2625490",
+      "confirmed": "2624414",
       "deaths": "43053"
     },
     {
       "date": "2021-02-25",
-      "confirmed": "2633310",
+      "confirmed": "2632230",
       "deaths": "43350"
     },
     {
       "date": "2021-02-26",
-      "confirmed": "2644221",
+      "confirmed": "2643136",
       "deaths": "43633"
     },
     {
       "date": "2021-02-27",
-      "confirmed": "2649664",
+      "confirmed": "2648579",
       "deaths": "43772"
     },
     {
       "date": "2021-02-28",
-      "confirmed": "2653285",
+      "confirmed": "2652200",
       "deaths": "43949"
     },
     {
       "date": "2021-03-01",
-      "confirmed": "2661425",
+      "confirmed": "2660332",
       "deaths": "44078"
     },
     {
       "date": "2021-03-02",
-      "confirmed": "2668665",
+      "confirmed": "2667509",
       "deaths": "44353"
     },
     {
       "date": "2021-03-03",
-      "confirmed": "2676258",
+      "confirmed": "2675096",
       "deaths": "44627"
     },
     {
       "date": "2021-03-04",
-      "confirmed": "2683840",
+      "confirmed": "2682656",
       "deaths": "44920"
     },
     {
       "date": "2021-03-05",
-      "confirmed": "2689417",
+      "confirmed": "2688210",
       "deaths": "45195"
     },
     {
       "date": "2021-03-06",
-      "confirmed": "2693011",
+      "confirmed": "2691804",
       "deaths": "45381"
     },
     {
       "date": "2021-03-07",
-      "confirmed": "2695863",
+      "confirmed": "2694656",
       "deaths": "45446"
     },
     {
       "date": "2021-03-08",
-      "confirmed": "2699854",
+      "confirmed": "2698639",
       "deaths": "45570"
     },
     {
       "date": "2021-03-09",
-      "confirmed": "2705263",
+      "confirmed": "2704040",
       "deaths": "45754"
     },
     {
       "date": "2021-03-10",
-      "confirmed": "2710613",
+      "confirmed": "2709378",
       "deaths": "45956"
     },
     {
       "date": "2021-03-11",
-      "confirmed": "2716802",
+      "confirmed": "2715562",
       "deaths": "46168"
     },
     {
       "date": "2021-03-12",
-      "confirmed": "2722034",
+      "confirmed": "2720793",
       "deaths": "46391"
     },
     {
       "date": "2021-03-13",
-      "confirmed": "2724909",
+      "confirmed": "2723668",
       "deaths": "46532"
     },
     {
       "date": "2021-03-14",
-      "confirmed": "2727638",
+      "confirmed": "2726397",
       "deaths": "46588"
     },
     {
       "date": "2021-03-15",
-      "confirmed": "2732316",
+      "confirmed": "2731072",
       "deaths": "46690"
     },
     {
       "date": "2021-03-16",
-      "confirmed": "2738183",
+      "confirmed": "2736928",
       "deaths": "46824"
     },
     {
       "date": "2021-03-17",
-      "confirmed": "2742733",
+      "confirmed": "2741474",
       "deaths": "46997"
     },
     {
       "date": "2021-03-18",
-      "confirmed": "2746154",
+      "confirmed": "2744873",
       "deaths": "47196"
     },
     {
       "date": "2021-03-19",
-      "confirmed": "2750094",
+      "confirmed": "2748807",
       "deaths": "47362"
     },
     {
       "date": "2021-03-20",
-      "confirmed": "2752565",
+      "confirmed": "2751278",
       "deaths": "47459"
     },
     {
       "date": "2021-03-21",
-      "confirmed": "2754896",
+      "confirmed": "2753609",
       "deaths": "47504"
     },
     {
       "date": "2021-03-22",
-      "confirmed": "2758321",
+      "confirmed": "2757030",
       "deaths": "47613"
     },
     {
       "date": "2021-03-23",
-      "confirmed": "2762716",
+      "confirmed": "2761396",
       "deaths": "47698"
     },
     {
       "date": "2021-03-24",
-      "confirmed": "2766546",
+      "confirmed": "2765222",
       "deaths": "47861"
     },
     {
       "date": "2021-03-25",
-      "confirmed": "2771937",
+      "confirmed": "2770598",
       "deaths": "47990"
     },
     {
       "date": "2021-03-26",
-      "confirmed": "2775886",
+      "confirmed": "2774524",
       "deaths": "48123"
     },
     {
       "date": "2021-03-27",
-      "confirmed": "2778980",
+      "confirmed": "2777618",
       "deaths": "48209"
     },
     {
       "date": "2021-03-28",
-      "confirmed": "2781961",
+      "confirmed": "2780599",
       "deaths": "48260"
     },
     {
       "date": "2021-03-29",
-      "confirmed": "2786538",
+      "confirmed": "2785104",
       "deaths": "48306"
     },
     {
       "date": "2021-03-30",
-      "confirmed": "2790014",
+      "confirmed": "2788522",
       "deaths": "48417"
     },
     {
       "date": "2021-03-31",
-      "confirmed": "2794125",
+      "confirmed": "2792609",
       "deaths": "48537"
     },
     {
       "date": "2021-04-01",
-      "confirmed": "2797813",
+      "confirmed": "2796296",
       "deaths": "48651"
     },
     {
       "date": "2021-04-02",
-      "confirmed": "2799843",
+      "confirmed": "2798326",
       "deaths": "48752"
     },
     {
       "date": "2021-04-03",
-      "confirmed": "2801519",
+      "confirmed": "2800002",
       "deaths": "48828"
     },
     {
       "date": "2021-04-04",
-      "confirmed": "2802531",
+      "confirmed": "2801014",
       "deaths": "48848"
     },
     {
       "date": "2021-04-05",
-      "confirmed": "2807497",
+      "confirmed": "2805980",
       "deaths": "48878"
     },
     {
       "date": "2021-04-06",
-      "confirmed": "2811696",
+      "confirmed": "2810179",
       "deaths": "48965"
     },
     {
       "date": "2021-04-07",
-      "confirmed": "2815609",
+      "confirmed": "2814090",
       "deaths": "49073"
     },
     {
       "date": "2021-04-08",
-      "confirmed": "2820137",
+      "confirmed": "2818618",
       "deaths": "49171"
     },
     {
       "date": "2021-04-09",
-      "confirmed": "2823378",
+      "confirmed": "2821858",
       "deaths": "49277"
     },
     {
       "date": "2021-04-10",
-      "confirmed": "2825847",
+      "confirmed": "2824327",
       "deaths": "49342"
     },
     {
       "date": "2021-04-11",
-      "confirmed": "2827316",
+      "confirmed": "2825796",
       "deaths": "49366"
     },
     {
       "date": "2021-04-12",
-      "confirmed": "2832869",
+      "confirmed": "2831349",
       "deaths": "49390"
     },
     {
       "date": "2021-04-13",
-      "confirmed": "2837716",
+      "confirmed": "2836189",
       "deaths": "49453"
     },
     {
       "date": "2021-04-14",
-      "confirmed": "2841310",
+      "confirmed": "2839782",
       "deaths": "49521"
     },
     {
       "date": "2021-04-15",
-      "confirmed": "2844633",
+      "confirmed": "2843105",
       "deaths": "49604"
     },
     {
       "date": "2021-04-16",
-      "confirmed": "2847647",
+      "confirmed": "2846116",
       "deaths": "49673"
     },
     {
       "date": "2021-04-17",
-      "confirmed": "2849490",
+      "confirmed": "2847959",
       "deaths": "49723"
     },
     {
       "date": "2021-04-18",
-      "confirmed": "2850929",
+      "confirmed": "2849398",
       "deaths": "49756"
     },
     {
       "date": "2021-04-19",
-      "confirmed": "2855673",
+      "confirmed": "2854142",
       "deaths": "49777"
     },
     {
       "date": "2021-04-20",
-      "confirmed": "2860314",
-      "deaths": "49829"
+      "confirmed": "2861148",
+      "deaths": "50790"
     },
     {
       "date": "2021-04-21",
-      "confirmed": "2864489",
+      "confirmed": "2862958",
       "deaths": "49913"
     },
     {
       "date": "2021-04-22",
-      "confirmed": "2868177",
+      "confirmed": "2866633",
       "deaths": "49981"
     },
     {
       "date": "2021-04-23",
-      "confirmed": "2870810",
+      "confirmed": "2869263",
       "deaths": "50045"
     },
     {
       "date": "2021-04-24",
-      "confirmed": "2872818",
+      "confirmed": "2871271",
       "deaths": "50087"
     },
     {
       "date": "2021-04-25",
-      "confirmed": "2874314",
+      "confirmed": "2872767",
       "deaths": "50100"
     },
     {
       "date": "2021-04-26",
-      "confirmed": "2878727",
+      "confirmed": "2877180",
       "deaths": "50133"
     },
     {
       "date": "2021-04-27",
-      "confirmed": "2882498",
+      "confirmed": "2880949",
       "deaths": "50193"
     },
     {
       "date": "2021-04-28",
-      "confirmed": "2886646",
+      "confirmed": "2885097",
       "deaths": "50271"
     },
     {
       "date": "2021-04-29",
-      "confirmed": "2890534",
+      "confirmed": "2888667",
       "deaths": "50336"
     },
     {
       "date": "2021-04-30",
-      "confirmed": "2893960",
+      "confirmed": "2892368",
       "deaths": "50403"
     },
     {
       "date": "2021-05-01",
-      "confirmed": "2896004",
+      "confirmed": "2894412",
       "deaths": "50455"
     },
     {
       "date": "2021-05-02",
-      "confirmed": "2897207",
+      "confirmed": "2895615",
       "deaths": "50470"
     },
     {
       "date": "2021-05-03",
-      "confirmed": "2901418",
+      "confirmed": "2899801",
       "deaths": "50484"
     },
     {
       "date": "2021-05-04",
-      "confirmed": "2904178",
+      "confirmed": "2902556",
       "deaths": "50567"
     },
     {
       "date": "2021-05-05",
-      "confirmed": "2906458",
+      "confirmed": "2904816",
       "deaths": "50626"
     },
     {
       "date": "2021-05-06",
-      "confirmed": "2909093",
+      "confirmed": "2907440",
       "deaths": "50690"
     },
     {
       "date": "2021-05-07",
-      "confirmed": "2912023",
+      "confirmed": "2910340",
       "deaths": "50748"
     },
     {
       "date": "2021-05-08",
-      "confirmed": "2913554",
+      "confirmed": "2911768",
       "deaths": "50789"
     },
     {
       "date": "2021-05-09",
-      "confirmed": "2914818",
+      "confirmed": "2913032",
       "deaths": "50806"
     },
     {
       "date": "2021-05-10",
-      "confirmed": "2917400",
+      "confirmed": "2915708",
       "deaths": "50828"
     },
     {
       "date": "2021-05-11",
-      "confirmed": "2920327",
+      "confirmed": "2918631",
       "deaths": "50883"
     },
     {
       "date": "2021-05-12",
-      "confirmed": "2922839",
+      "confirmed": "2921091",
       "deaths": "50953"
     },
     {
       "date": "2021-05-13",
-      "confirmed": "2925134",
+      "confirmed": "2923340",
       "deaths": "51003"
     },
     {
       "date": "2021-05-14",
-      "confirmed": "2927610",
+      "confirmed": "2925788",
       "deaths": "51068"
     },
     {
       "date": "2021-05-15",
-      "confirmed": "2928700",
+      "confirmed": "2926878",
       "deaths": "51105"
     },
     {
       "date": "2021-05-16",
-      "confirmed": "2929324",
+      "confirmed": "2927502",
       "deaths": "51105"
     },
     {
       "date": "2021-05-17",
-      "confirmed": "2931537",
+      "confirmed": "2929704",
       "deaths": "51139"
     },
     {
       "date": "2021-05-18",
-      "confirmed": "2934993",
+      "confirmed": "2933142",
       "deaths": "51180"
     },
     {
       "date": "2021-05-19",
-      "confirmed": "2937010",
+      "confirmed": "2935159",
       "deaths": "51238"
     },
     {
       "date": "2021-05-20",
-      "confirmed": "2938728",
+      "confirmed": "2936858",
       "deaths": "51283"
     },
     {
       "date": "2021-05-21",
-      "confirmed": "2940296",
+      "confirmed": "2938400",
       "deaths": "51326"
     },
     {
       "date": "2021-05-22",
-      "confirmed": "2941273",
+      "confirmed": "2939377",
       "deaths": "51366"
     },
     {
       "date": "2021-05-23",
-      "confirmed": "2941993",
+      "confirmed": "2940097",
       "deaths": "51381"
     },
     {
       "date": "2021-05-24",
-      "confirmed": "2944881",
-      "deaths": "51409"
+      "confirmed": "2943006",
+      "deaths": "51410"
     },
     {
       "date": "2021-05-25",
-      "confirmed": "2947263",
-      "deaths": "51449"
+      "confirmed": "2945521",
+      "deaths": "51453"
     },
     {
       "date": "2021-05-26",
-      "confirmed": "2949105",
-      "deaths": "51510"
+      "confirmed": "2947166",
+      "deaths": "51516"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "2948915",
+      "deaths": "51572"
     }
   ],
   "Utah": [
@@ -101502,6 +101722,11 @@
       "date": "2021-05-26",
       "confirmed": "405148",
       "deaths": "2292"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "405457",
+      "deaths": "2294"
     }
   ],
   "Vermont": [
@@ -103733,6 +103958,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "24162",
+      "deaths": "255"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "24182",
       "deaths": "255"
     }
   ],
@@ -105966,6 +106196,11 @@
       "date": "2021-05-26",
       "confirmed": "674082",
       "deaths": "11143"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "674439",
+      "deaths": "11152"
     }
   ],
   "Washington": [
@@ -108428,6 +108663,11 @@
       "date": "2021-05-26",
       "confirmed": "434154",
       "deaths": "5785"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "435657",
+      "deaths": "5798"
     }
   ],
   "West Virginia": [
@@ -110610,6 +110850,11 @@
       "date": "2021-05-26",
       "confirmed": "160777",
       "deaths": "2788"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "161046",
+      "deaths": "2792"
     }
   ],
   "Wisconsin": [
@@ -112997,6 +113242,11 @@
       "date": "2021-05-26",
       "confirmed": "673601",
       "deaths": "7765"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "673951",
+      "deaths": "7814"
     }
   ],
   "Wyoming": [
@@ -115208,6 +115458,11 @@
     {
       "date": "2021-05-26",
       "confirmed": "59961",
+      "deaths": "719"
+    },
+    {
+      "date": "2021-05-27",
+      "confirmed": "60048",
       "deaths": "719"
     }
   ]
