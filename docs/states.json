@@ -24415,13 +24415,13 @@
     },
     {
       "date": "2021-06-29",
-      "confirmed": "2321929",
-      "deaths": "37772"
+      "confirmed": "2327165",
+      "deaths": "37836"
     },
     {
       "date": "2021-06-30",
-      "confirmed": "2321929",
-      "deaths": "37772"
+      "confirmed": "2329484",
+      "deaths": "37877"
     }
   ],
   "Georgia": [
@@ -43826,77 +43826,77 @@
     },
     {
       "date": "2021-06-16",
-      "confirmed": "463948",
+      "confirmed": "463895",
       "deaths": "7222"
     },
     {
       "date": "2021-06-17",
-      "confirmed": "464148",
+      "confirmed": "464100",
       "deaths": "7224"
     },
     {
       "date": "2021-06-18",
-      "confirmed": "464308",
+      "confirmed": "464264",
       "deaths": "7225"
     },
     {
       "date": "2021-06-19",
-      "confirmed": "464320",
+      "confirmed": "464276",
       "deaths": "7225"
     },
     {
       "date": "2021-06-20",
-      "confirmed": "464335",
+      "confirmed": "464291",
       "deaths": "7227"
     },
     {
       "date": "2021-06-21",
-      "confirmed": "464623",
+      "confirmed": "464584",
       "deaths": "7236"
     },
     {
       "date": "2021-06-22",
-      "confirmed": "464775",
+      "confirmed": "464743",
       "deaths": "7240"
     },
     {
       "date": "2021-06-23",
-      "confirmed": "464903",
+      "confirmed": "464874",
       "deaths": "7242"
     },
     {
       "date": "2021-06-24",
-      "confirmed": "465052",
+      "confirmed": "465024",
       "deaths": "7247"
     },
     {
       "date": "2021-06-25",
-      "confirmed": "465232",
+      "confirmed": "465205",
       "deaths": "7252"
     },
     {
       "date": "2021-06-26",
-      "confirmed": "465232",
+      "confirmed": "465205",
       "deaths": "7252"
     },
     {
       "date": "2021-06-27",
-      "confirmed": "465232",
+      "confirmed": "465205",
       "deaths": "7252"
     },
     {
       "date": "2021-06-28",
-      "confirmed": "465485",
+      "confirmed": "465460",
       "deaths": "7259"
     },
     {
       "date": "2021-06-29",
-      "confirmed": "465711",
+      "confirmed": "465686",
       "deaths": "7264"
     },
     {
       "date": "2021-06-30",
-      "confirmed": "465963",
+      "confirmed": "465942",
       "deaths": "7267"
     }
   ],
@@ -56066,8 +56066,8 @@
     },
     {
       "date": "2021-06-30",
-      "confirmed": "998605",
-      "deaths": "20985"
+      "confirmed": "998606",
+      "deaths": "20984"
     }
   ],
   "Minnesota": [
@@ -116826,7 +116826,7 @@
     },
     {
       "date": "2021-06-30",
-      "confirmed": "453608",
+      "confirmed": "453630",
       "deaths": "5984"
     }
   ],
