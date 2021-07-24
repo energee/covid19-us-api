@@ -43429,18 +43429,18 @@
     },
     {
       "date": "2021-07-21",
-      "confirmed": "325732",
+      "confirmed": "326819",
       "deaths": "5235"
     },
     {
       "date": "2021-07-22",
-      "confirmed": "325958",
+      "confirmed": "326876",
       "deaths": "5236"
     },
     {
       "date": "2021-07-23",
-      "confirmed": "326077",
-      "deaths": "5238"
+      "confirmed": "328593",
+      "deaths": "5275"
     }
   ],
   "Kentucky": [
@@ -58706,7 +58706,7 @@
     },
     {
       "date": "2021-07-22",
-      "confirmed": "1003261",
+      "confirmed": "1003264",
       "deaths": "21110"
     },
     {
@@ -122346,8 +122346,8 @@
     },
     {
       "date": "2021-07-23",
-      "confirmed": "467383",
-      "deaths": "6114"
+      "confirmed": "467489",
+      "deaths": "6124"
     }
   ],
   "West Virginia": [
