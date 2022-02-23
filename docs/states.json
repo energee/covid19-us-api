@@ -18255,23 +18255,23 @@
     },
     {
       "date": "2022-02-18",
-      "confirmed": "8886340",
-      "deaths": "83941"
+      "confirmed": "8885752",
+      "deaths": "83936"
     },
     {
       "date": "2022-02-19",
-      "confirmed": "8889559",
-      "deaths": "84025"
+      "confirmed": "8888971",
+      "deaths": "84020"
     },
     {
       "date": "2022-02-20",
-      "confirmed": "8892189",
-      "deaths": "84094"
+      "confirmed": "8891601",
+      "deaths": "84089"
     },
     {
       "date": "2022-02-21",
-      "confirmed": "8893512",
-      "deaths": "84114"
+      "confirmed": "8892924",
+      "deaths": "84109"
     }
   ],
   "Colorado": [
@@ -115554,7 +115554,7 @@
     },
     {
       "date": "2022-02-18",
-      "confirmed": "507323",
+      "confirmed": "507322",
       "deaths": "6777"
     },
     {
