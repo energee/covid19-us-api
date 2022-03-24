@@ -108958,43 +108958,43 @@
     },
     {
       "date": "2022-03-15",
-      "confirmed": "688054",
-      "deaths": "9922"
+      "confirmed": "710709",
+      "deaths": "9933"
     },
     {
       "date": "2022-03-16",
-      "confirmed": "688054",
-      "deaths": "9922"
+      "confirmed": "710709",
+      "deaths": "9949"
     },
     {
       "date": "2022-03-17",
-      "confirmed": "688054",
-      "deaths": "9922"
+      "confirmed": "710848",
+      "deaths": "9949"
     },
     {
       "date": "2022-03-18",
-      "confirmed": "688054",
-      "deaths": "9922"
+      "confirmed": "710848",
+      "deaths": "9949"
     },
     {
       "date": "2022-03-19",
-      "confirmed": "688054",
-      "deaths": "9922"
+      "confirmed": "711249",
+      "deaths": "9988"
     },
     {
       "date": "2022-03-20",
-      "confirmed": "688054",
-      "deaths": "9922"
+      "confirmed": "711249",
+      "deaths": "9988"
     },
     {
       "date": "2022-03-21",
-      "confirmed": "688054",
-      "deaths": "9922"
+      "confirmed": "711249",
+      "deaths": "9988"
     },
     {
       "date": "2022-03-22",
-      "confirmed": "688054",
-      "deaths": "9922"
+      "confirmed": "711451",
+      "deaths": "10016"
     }
   ],
   "New Hampshire": [
@@ -165108,112 +165108,112 @@
     },
     {
       "date": "2022-03-01",
-      "confirmed": "6569511",
+      "confirmed": "6565659",
       "deaths": "85143"
     },
     {
       "date": "2022-03-02",
-      "confirmed": "6573494",
+      "confirmed": "6569669",
       "deaths": "85346"
     },
     {
       "date": "2022-03-03",
-      "confirmed": "6577708",
+      "confirmed": "6573893",
       "deaths": "85461"
     },
     {
       "date": "2022-03-04",
-      "confirmed": "6581663",
+      "confirmed": "6577872",
       "deaths": "85695"
     },
     {
       "date": "2022-03-05",
-      "confirmed": "6585482",
+      "confirmed": "6581796",
       "deaths": "85793"
     },
     {
       "date": "2022-03-06",
-      "confirmed": "6585992",
+      "confirmed": "6582314",
       "deaths": "85835"
     },
     {
       "date": "2022-03-07",
-      "confirmed": "6589495",
+      "confirmed": "6585830",
       "deaths": "85878"
     },
     {
       "date": "2022-03-08",
-      "confirmed": "6594414",
+      "confirmed": "6590759",
       "deaths": "85991"
     },
     {
       "date": "2022-03-09",
-      "confirmed": "6599546",
+      "confirmed": "6595895",
       "deaths": "86117"
     },
     {
       "date": "2022-03-10",
-      "confirmed": "6605349",
+      "confirmed": "6601706",
       "deaths": "86266"
     },
     {
       "date": "2022-03-11",
-      "confirmed": "6613507",
+      "confirmed": "6609865",
       "deaths": "86366"
     },
     {
       "date": "2022-03-12",
-      "confirmed": "6616607",
+      "confirmed": "6612985",
       "deaths": "86455"
     },
     {
       "date": "2022-03-13",
-      "confirmed": "6617710",
+      "confirmed": "6614096",
       "deaths": "86491"
     },
     {
       "date": "2022-03-14",
-      "confirmed": "6619160",
+      "confirmed": "6615549",
       "deaths": "86518"
     },
     {
       "date": "2022-03-15",
-      "confirmed": "6622373",
+      "confirmed": "6618765",
       "deaths": "86589"
     },
     {
       "date": "2022-03-16",
-      "confirmed": "6625284",
+      "confirmed": "6621684",
       "deaths": "86687"
     },
     {
       "date": "2022-03-17",
-      "confirmed": "6630121",
+      "confirmed": "6626526",
       "deaths": "86806"
     },
     {
       "date": "2022-03-18",
-      "confirmed": "6633302",
+      "confirmed": "6629741",
       "deaths": "86879"
     },
     {
       "date": "2022-03-19",
-      "confirmed": "6634738",
+      "confirmed": "6631177",
       "deaths": "86938"
     },
     {
       "date": "2022-03-20",
-      "confirmed": "6636897",
+      "confirmed": "6633345",
       "deaths": "86942"
     },
     {
       "date": "2022-03-21",
-      "confirmed": "6638839",
+      "confirmed": "6635291",
       "deaths": "86987"
     },
     {
       "date": "2022-03-22",
-      "confirmed": "6644067",
+      "confirmed": "6640527",
       "deaths": "87045"
     }
   ],
