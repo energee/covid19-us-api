@@ -34809,7 +34809,7 @@
     {
       "date": "2022-04-11",
       "confirmed": "137603",
-      "deaths": "1332"
+      "deaths": "1331"
     }
   ],
   "Florida": [
@@ -65694,22 +65694,22 @@
     },
     {
       "date": "2022-04-08",
-      "confirmed": "771891",
+      "confirmed": "771854",
       "deaths": "8421"
     },
     {
       "date": "2022-04-09",
-      "confirmed": "771891",
+      "confirmed": "771854",
       "deaths": "8421"
     },
     {
       "date": "2022-04-10",
-      "confirmed": "771961",
+      "confirmed": "771924",
       "deaths": "8421"
     },
     {
       "date": "2022-04-11",
-      "confirmed": "772095",
+      "confirmed": "772058",
       "deaths": "8422"
     }
   ],
