@@ -65935,22 +65935,22 @@
     {
       "date": "2022-04-08",
       "confirmed": "771854",
-      "deaths": "8421"
+      "deaths": "8500"
     },
     {
       "date": "2022-04-09",
       "confirmed": "771854",
-      "deaths": "8421"
+      "deaths": "8500"
     },
     {
       "date": "2022-04-10",
       "confirmed": "771924",
-      "deaths": "8421"
+      "deaths": "8500"
     },
     {
       "date": "2022-04-11",
       "confirmed": "772058",
-      "deaths": "8422"
+      "deaths": "8501"
     },
     {
       "date": "2022-04-12",
@@ -170243,37 +170243,37 @@
     },
     {
       "date": "2022-04-08",
-      "confirmed": "6701901",
+      "confirmed": "6701915",
       "deaths": "87747"
     },
     {
       "date": "2022-04-09",
-      "confirmed": "6704457",
+      "confirmed": "6704471",
       "deaths": "87796"
     },
     {
       "date": "2022-04-10",
-      "confirmed": "6705329",
+      "confirmed": "6705343",
       "deaths": "87796"
     },
     {
       "date": "2022-04-11",
-      "confirmed": "6707045",
+      "confirmed": "6707059",
       "deaths": "87801"
     },
     {
       "date": "2022-04-12",
-      "confirmed": "6709483",
+      "confirmed": "6709497",
       "deaths": "87843"
     },
     {
       "date": "2022-04-13",
-      "confirmed": "6712710",
+      "confirmed": "6712724",
       "deaths": "87875"
     },
     {
       "date": "2022-04-14",
-      "confirmed": "6715742",
+      "confirmed": "6715756",
       "deaths": "87896"
     }
   ],
