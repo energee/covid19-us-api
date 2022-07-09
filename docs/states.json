@@ -21696,7 +21696,7 @@
     {
       "date": "2022-07-08",
       "confirmed": "10279898",
-      "deaths": "92790"
+      "deaths": "92793"
     }
   ],
   "Colorado": [
@@ -60318,57 +60318,57 @@
     },
     {
       "date": "2022-06-27",
-      "confirmed": "3422893",
+      "confirmed": "3423153",
       "deaths": "38535"
     },
     {
       "date": "2022-06-28",
-      "confirmed": "3427043",
+      "confirmed": "3427364",
       "deaths": "38559"
     },
     {
       "date": "2022-06-29",
-      "confirmed": "3431603",
+      "confirmed": "3432057",
       "deaths": "38569"
     },
     {
       "date": "2022-06-30",
-      "confirmed": "3436345",
+      "confirmed": "3436799",
       "deaths": "38588"
     },
     {
       "date": "2022-07-01",
-      "confirmed": "3440779",
+      "confirmed": "3441474",
       "deaths": "38601"
     },
     {
       "date": "2022-07-02",
-      "confirmed": "3440779",
+      "confirmed": "3441737",
       "deaths": "38601"
     },
     {
       "date": "2022-07-03",
-      "confirmed": "3440779",
+      "confirmed": "3441737",
       "deaths": "38601"
     },
     {
       "date": "2022-07-04",
-      "confirmed": "3440779",
+      "confirmed": "3441737",
       "deaths": "38601"
     },
     {
       "date": "2022-07-05",
-      "confirmed": "3451446",
+      "confirmed": "3452404",
       "deaths": "38616"
     },
     {
       "date": "2022-07-06",
-      "confirmed": "3456783",
+      "confirmed": "3457839",
       "deaths": "38633"
     },
     {
       "date": "2022-07-07",
-      "confirmed": "3462449",
+      "confirmed": "3463634",
       "deaths": "38641"
     },
     {
@@ -206346,7 +206346,7 @@
     },
     {
       "date": "2022-07-08",
-      "confirmed": "1688279",
+      "confirmed": "1688871",
       "deaths": "13384"
     }
   ],
