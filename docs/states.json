@@ -21915,37 +21915,37 @@
     },
     {
       "date": "2022-07-12",
-      "confirmed": "10357357",
+      "confirmed": "10358182",
       "deaths": "92900"
     },
     {
       "date": "2022-07-13",
-      "confirmed": "10364956",
+      "confirmed": "10365785",
       "deaths": "92927"
     },
     {
       "date": "2022-07-14",
-      "confirmed": "10373439",
+      "confirmed": "10374290",
       "deaths": "92947"
     },
     {
       "date": "2022-07-15",
-      "confirmed": "10434727",
+      "confirmed": "10435541",
       "deaths": "93043"
     },
     {
       "date": "2022-07-16",
-      "confirmed": "10434727",
+      "confirmed": "10435541",
       "deaths": "93043"
     },
     {
       "date": "2022-07-17",
-      "confirmed": "10434727",
+      "confirmed": "10435541",
       "deaths": "93043"
     },
     {
       "date": "2022-07-18",
-      "confirmed": "10453367",
+      "confirmed": "10454194",
       "deaths": "93072"
     }
   ],
@@ -108741,7 +108741,7 @@
     {
       "date": "2022-07-18",
       "confirmed": "859352",
-      "deaths": "12573"
+      "deaths": "12600"
     }
   ],
   "Missouri": [
